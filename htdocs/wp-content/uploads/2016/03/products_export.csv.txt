@@ -1,0 +1,817 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit
+art-against-knives,ART AGAINST KNIVES,"<p>EXCLUSIVE ART AGAINST KNIVES PRINT </p>
+<p>Digital fine art print on Hahnemuhle paper</p>
+<p>Limited edition print run of 100</p>
+<p>37 x 33.6 cm</p>
+<p>Postage: £6</p>",Art Against Knives Gallery,Print,"",true,Title,Default Title,,,,,99,1000,,1,deny,manual,35.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/DALI_BORDER.jpg?v=1453384332,,false,,,,,,,,,,,,,,,,,kg
+art-against-knives,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Dali_zoomed.jpg?v=1453384342,,,,,,,,,,,,,,,,,,,
+skin-1-by-ilka-franz,'Skin 1' by Ilka & Franz,"<p><strong>Framed special edition Hahnemuhle Baryta print, 1189x793mm</strong></p>
+<p>Mounted and framed</p>
+<p>Please email us if you would like to arrange a viewing, or for shipping info and costs at: <strong>gallery@artagainstknives.com</strong></p>
+<p> </p>",Art Against Knives Gallery,"","",true,Title,Default Title,,,,,"",0,,1,deny,manual,1250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/ilkafranz-15.jpg?v=1447951024,,false,,,,,,,,,,,,,,,,,oz
+skin-1-by-ilka-franz,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/ilkafranz-skin-1.jpg?v=1447951028,,,,,,,,,,,,,,,,,,,
+rubicon-by-elena-gumenuik,'Rubicon' by Elena Gumeniuk,"<p><span>2 Colour Screenprint on Southbank Smooth 310gsm Paper, 50 x 50 cm</span></p>
+<p><span>Edition of 36, printed by Jealous Gallery.</span></p>
+<p>£75 (+ £8 shipping)</p>",Art Against Knives Gallery,"","colour, jealous, screenprint, summer",true,Title,Default Title,,,,,"",0,shopify,3,deny,manual,83.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/1706.jpg?v=1439552902,,false,,,,,,,,,,,,,,,,,oz
+rubicon-by-elena-gumenuik,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/GumeniukO05.jpg?v=1439552935,,,,,,,,,,,,,,,,,,,
+rob-flowers-shine-on,'SHINE ON' by ROB FLOWERS,"<meta charset=""utf-8"">
+<h3 style=""text-align: center;"">'SHINE ON'</h3>
+<h3 style=""text-align: center;"">BY <a href=""http://robflowers.co.uk/"">ROB FLOWERS</a>
+</h3>
+<h4 style=""text-align: center;""><span>Hybrid signed print (digital inkjet with 2 colour silkscreen print overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span>SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span>Framed: £250</span></h4>
+<h6 style=""text-align: center;""><span>*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,9,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/AAK-01_670.jpg?v=1437997358,,false,,,,,,,,,,,,,,,,,oz
+rob-flowers-shine-on,,,,,,,,Framed,,,,,"",0,shopify,9,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11695985_980484465305253_4954315659985327808_n.jpg?v=1437997368,,,,,,,,,,,,,,,,,,,oz
+rob-flowers-shine-on,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_6648.JPG?v=1438336610,,,,,,,,,,,,,,,,,,,
+copy-of-margaux-carpentier-orange-lips-idole,'I CARRY YOUR HEART' by POPPY'S PAPERCUTS,"<h3 style=""text-align: center;""><span style=""color: #444444;"">'I CARRY YOUR HEART'</span></h3>
+<h3 style=""text-align: center;""><span style=""color: #444444;"">BY <a href=""http://poppyspapercuts.com/"">POPPY'S PAPERCUTS</a></span></h3>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span style=""color: #444444;"">One colour silkscreen print, created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"" style=""color: #444444;"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span style=""color: #444444;"">SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span style=""color: #444444;"">Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span style=""color: #444444;"">Framed: £250</span></h4>
+<h6 style=""text-align: center;""><span style=""color: #444444;"">*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,9,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Poppy_Hi_Res_Art_Against_Knives.jpg?v=1437996983,,false,,,,,,,,,,,,,,,,,oz
+copy-of-margaux-carpentier-orange-lips-idole,,,,,,,,Framed,,,,,"",0,shopify,10,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/POPPY.jpg?v=1437996998,,,,,,,,,,,,,,,,,,,oz
+copy-of-margaux-carpentier-orange-lips-idole,,,,,,,,1st edition framed,,,,,"",0,shopify,1,deny,manual,350.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_6659.JPG?v=1438337038,,,,,,,,,,,,,,,,,,,oz
+margaux-carpentier-orange-lips-idole,'ORANGE LIPS IDOLE' by MARGAUX CARPENTIER,"<meta charset=""utf-8"">
+<h3 style=""text-align: center;""><span style=""color: #444444;"">'ORANGE LIPS IDOLE'</span></h3>
+<h3 style=""text-align: center;""><span style=""color: #444444;"">BY <a href=""http://www.margauxcarpentier.com/"">MARGAUX CARPENTIER</a></span></h3>
+<h4 style=""text-align: center;""><span style=""color: #444444;"">Hybrid signed print (digital inkjet with 2 colour silkscreen print overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"" style=""color: #444444;"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span style=""color: #444444;"">SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span style=""color: #444444;"">Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span style=""color: #444444;"">Framed: £250</span></h4>
+<h6 style=""text-align: center;""><span style=""color: #444444;"">*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,10,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/margaux.jpg?v=1437996733,,false,,,,,,,,,,,,,,,,,oz
+margaux-carpentier-orange-lips-idole,,,,,,,,Framed,,,,,"",0,shopify,9,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11760125_980484461971920_3307569458322645207_n.jpg?v=1437996744,,,,,,,,,,,,,,,,,,,oz
+margaux-carpentier-orange-lips-idole,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/11053143_980484451971921_5319088727344774444_n.jpg?v=1437996755,,,,,,,,,,,,,,,,,,,
+margaux-carpentier-orange-lips-idole,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_6645.JPG?v=1438336656,,,,,,,,,,,,,,,,,,,
+margaux-carpentier-orange-lips-idole,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_6646.JPG?v=1438336660,,,,,,,,,,,,,,,,,,,
+lynnie-zulu-dairy-queen,'DAIRY QUEEN' by LYNNIE ZULU,"<meta charset=""utf-8"">
+<h3 style=""text-align: center;""><span>'DAIRY QUEEN'</span></h3>
+<h3 style=""text-align: center;""><span>BY LYNNIE ZULU</span></h3>
+<h4 style=""text-align: center;""><span>Hybrid signed print (digital inkjet with 2 colour silkscreen print overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span>SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span>Framed: £250</span></h4>
+<h4 style=""text-align: center;""><span>Original, paint pens on paper, framed: £470</span></h4>
+<h6 style=""text-align: center;""><span>*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,9,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11698582_980484401971926_2174458924665329562_n.jpg?v=1437996515,,false,,,,,,,,,,,,,,,,,oz
+lynnie-zulu-dairy-queen,,,,,,,,Framed,,,,,"",0,shopify,4,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11695897_980484398638593_3762335793447041706_n.jpg?v=1437996534,,,,,,,,,,,,,,,,,,,oz
+lynnie-zulu-dairy-queen,,,,,,,,"Original, paint pens on paper, framed.",,,,,"",0,shopify,0,deny,manual,380.00,,true,true,"",,,,,,,,,,,,,,,,,,,,oz
+lynnie-zulu-dairy-queen,,,,,,,,1st edition- Framed,,,,,"",0,shopify,1,deny,manual,350.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+jess-wilson-denim-jacket,'DENIM JACKET' by JESS WILSON,"<meta charset=""utf-8"">
+<h3 style=""text-align: center;"">'DENIM JACKET'</h3>
+<h3 style=""text-align: center;"">BY <a href=""http://www.jesswilson.co.uk/"">JESS WILSON</a>
+</h3>
+<h4 style=""text-align: center;"">
+<span>Hybrid signed print </span>(digital inkjet with  created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </h4>
+<h4 style=""text-align: center;""><span>SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span style=""line-height: 1.4;"">Framed: £250</span></h4>
+<h6 style=""text-align: center;""><span>*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,10,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/jess_wilson.jpg?v=1437996377,,false,,,,,,,,,,,,,,,,,oz
+jess-wilson-denim-jacket,,,,,,,,Framed,,,,,"",0,shopify,9,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/FullSizeRender_1.jpg?v=1438336921,,,,,,,,,,,,,,,,,,,oz
+jess-wilson-denim-jacket,,,,,,,,1st edition framed,,,,,"",0,shopify,1,deny,manual,350.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+copy-of-camille-walala-long-life-in-the-sunshine,'HARD AT WORK' by HATTIE STEWART,"<meta charset=""utf-8"">
+<h3 style=""text-align: center;"">'HARD AT WORK'</h3>
+<h3 style=""text-align: center;"">BY <a href=""http://hattiestewart.com/"">HATTIE STEWART</a> </h3>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Hybrid signed print (digital inkjet with 2 colour silkscreen print overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span>SIZE: A2</span></h4>
+<h4 style=""text-align: center;""><span>Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span>Framed: £250</span></h4>
+<h6 style=""text-align: center;""><span>*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,9,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_1731.jpg?v=1437996166,,false,,,,,,,,,,,,,,,,,oz
+copy-of-camille-walala-long-life-in-the-sunshine,,,,,,,,Framed,,,,,"",0,shopify,6,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/hard_at_work.jpg?v=1437996175,,,,,,,,,,,,,,,,,,,oz
+copy-of-camille-walala-long-life-in-the-sunshine,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_6649.JPG?v=1438336694,,,,,,,,,,,,,,,,,,,
+camille-walala-long-life-in-the-sunshine,'LONG LIFE IN THE SUNSHINE' by CAMILLE WALALA,"<meta charset=""utf-8"">
+<h3 style=""text-align: center;"">'LONG LIFE IN THE SUNSHINE'</h3>
+<h3 style=""text-align: center;""><span>BY <a href=""http://camillewalala.com/"">CAMILLE WALALA</a></span></h3>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Hybrid signed print (digital inkjet with 2 colour silkscreen print overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span>SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span>Framed: £250</span></h4>
+<h6 style=""text-align: center;""><span>*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,9,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/CAMILLE_WALALA.jpg?v=1437995833,,false,,,,,,,,,,,,,,,,,oz
+camille-walala-long-life-in-the-sunshine,,,,,,,,Framed,,,,,"",0,shopify,7,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11745737_980484491971917_2883857599399016283_n.jpg?v=1437995840,,,,,,,,,,,,,,,,,,,oz
+camille-walala-long-life-in-the-sunshine,,,,,,,,1st edition framed,,,,,"",0,shopify,1,deny,manual,350.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_6656.JPG?v=1438336727,,,,,,,,,,,,,,,,,,,oz
+camille-walala-long-life-in-the-sunshine,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/FullSizeRender_57eeb336-6e66-4e9c-b833-e32a510b1c36.jpg?v=1438336894,,,,,,,,,,,,,,,,,,,
+archie-proudfoot-her,'HER' by ARCHIE PROUDFOOT,"<h3 style=""text-align: center;"">'HER'</h3>
+<h3 style=""text-align: center;""><span>BY <a href=""http://www.archieproudfoot.com/"">ARCHIE PROUDFOOT</a></span></h3>
+<h4 style=""text-align: center;"">
+<span>Hybrid signed print </span>(digital inkjet with varnish overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </h4>
+<h4 style=""text-align: center;""><span>SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span>Framed: £250</span></h4>
+<h4 style=""text-align: center;""><span>Original: Reverse-glass gilding. 23 Carat gold leaf, silver leaf, glass and enamels. 80cm x 30cm - Framed: £750</span></h4>
+<h6 style=""text-align: center;""><span>*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,10,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/HER_-_ARCHIE_PROUDFOOT_1.jpg?v=1437995366,,false,,,,,,,,,,,,,,,,,oz
+archie-proudfoot-her,,,,,,,,Framed,,,,,"",0,shopify,5,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11227504_980484428638590_3097456938628589982_n.jpg?v=1437995373,,,,,,,,,,,,,,,,,,,oz
+archie-proudfoot-her,,,,,,,,"Original, reverse-glass gilding. 23 Carey gold leaf, silver leaf, glass and enamels.",,,,,"",0,shopify,1,deny,manual,750.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11760229_980484415305258_1726427041415141313_n.jpg?v=1437995380,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3731_2.JPG?v=1438078423,oz
+archie-proudfoot-her,,,,,,,,1st edition framed,,,,,"",0,shopify,1,deny,manual,350.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3731_2.JPG?v=1438078423,,,,,,,,,,,,,,,,,,,oz
+archie-proudfoot-her,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/FullSizeRender.jpg?v=1438336538,,,,,,,,,,,,,,,,,,,
+archie-proudfoot-her,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_6647.JPG?v=1438336552,,,,,,,,,,,,,,,,,,,
+annu-kilpelainen-three-great-men,'THREE GREAT MEN' by ANNU KILPELAINEN,"<meta charset=""utf-8"">
+<h3 style=""text-align: center;"">'THREE GREAT MEN'</h3>
+<h3 style=""text-align: center;""><span>BY <a href=""http://www.annukil.com/"">ANNU KILPELAINEN</a></span></h3>
+<h4 style=""text-align: center;""><span>Hybrid signed print (digital inkjet with 2 colour silkscreen print overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span>SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span>Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span>Framed: £250</span></h4>
+<h4 style=""text-align: center;""><span>Original (Acrylic Painting) : £470</span></h4>
+<h6 style=""text-align: center;""><span>*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,10,deny,manual,160.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Annu_Kilpelainen.jpg?v=1437994256,,false,,,,,,,,,,,,,,,,,oz
+annu-kilpelainen-three-great-men,,,,,,,,Framed,,,,,"",0,shopify,8,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11173348_980484395305260_1745032965324263375_n.jpg?v=1437994282,,,,,,,,,,,,,,,,,,,oz
+annu-kilpelainen-three-great-men,,,,,,,,"Original, acrylic on paper, framed.",,,,,"",0,shopify,1,deny,manual,350.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/11745574_980484411971925_1233636622531178768_n.jpg?v=1437994288,,,,,,,,,,,,,,,,,,,oz
+alec-doherty-big-cheif,'BIG CHEIF' by ALEC DOHERTY,"<h3 style=""text-align: center;""><span style=""color: #666666;"">'BIG CHIEF' </span></h3>
+<h3 style=""text-align: center;""><span style=""color: #666666;"">BY <a href=""http://www.alecdoherty.com/"" target=""_blank"">ALEC DOHERTY </a></span></h3>
+<h4 style=""text-align: center;""><span style=""color: #666666;"">Hybrid signed print (digital inkjet with 2 colour silkscreen print overlay) created exclusively for ART AGAINST KNIVES and printed by <a href=""http://www.jealousgallery.com/"" style=""color: #666666;"">Jealous Studios</a>. Limited edition of 25. All proceeds go straight back into the creative programmes delivered by ART AGAINST KNIVES for young people at risk of violent crime in London. </span></h4>
+<h4 style=""text-align: center;""><span style=""color: #666666;"">SIZE: A2</span></h4>
+<meta charset=""utf-8"">
+<h4 style=""text-align: center;""><span style=""color: #444444;"">Unframed: £150 (+£10 Postage) </span></h4>
+<h4 style=""text-align: center;""><span style=""color: #666666;"">Framed: £250</span></h4>
+<h6 style=""text-align: center;""><span style=""color: #666666;"">*Please note framed pieces may take 2-3 weeks. All works will be ready for collection from Jealous Gallery Shoreditch or Jealous Gallery Crouch End. To arrange for delivery or for any shipping enquiries please contact Louise@jealousgallery.com </span></h6>",Art Against Knives Gallery,Print,"",true,Framed,Unframed,,,,,"",0,shopify,10,deny,manual,160.00,,false,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Alec_Doherty.jpg?v=1438183079,,false,,,,,,,,,,,,,,,,,oz
+alec-doherty-big-cheif,,,,,,,,Framed,,,,,"",0,shopify,6,deny,manual,250.00,,false,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_1732.jpg?v=1438183097,,,,,,,,,,,,,,,,,,,oz
+rebelution-t-shirt-size-extra-large,REBELUTION T-SHIRT (Size: Extra Large),"<h4>Limited edition REBELUTION T-Shirt, screen-printed by hand: </h4>
+<p>The physical release of REBELUTION's first EP is by t-shirt, exclusively designed and hand-printed by the collective of young artists. All 100 tees were hand-printed by young designer Richy Sayers, in collaboration with S.O.O.N clothing at the Art In Transit studio. Wear the artwork, join the family, spread the word!</p>
+<p>&lt;&lt; Only 100 made, on sale at Art Against Knives, get in quick! &gt;&gt;</p>
+<ul>
+<li>Screen-printed by hand, 100% cotton</li>
+<li>Limited edition of 100 only.</li>
+<li>Every purchase comes with the full EP to download.</li>
+</ul>
+<p>The decision to release the REBELUTION EP by tee was a natural one for the collective, following in footsteps including Prince, Mos Def and On Montreal and inspired by friends at indie label Polka Dot.</p>
+<p>CDs and vinyl live on shelves and sit still, but the REBELUTION message is made to be free - roaming the streets of London and beyond. The group wanted give friends and fans something beautiful and useful, whilst giving the brand legs.</p>
+<p>REBELUTION is a fresh young collective from London with a unique sound: led by hip-hop, shaped by grime, trap, RnB,acoustic, pop, rock and whatever else moves them.</p>
+The collective was formed during the On_TRACK music programme we run in Barnet, North London where 15 young people they threw hearts and talents into creating their first EP with the support of creative professionals and Role Models. All proceeds from sales go directly back into ART AGAINST KNIVES Charity to fund studio time for the collective.",Art Against Knives Gallery,T-Shirt,"silk screen print, T-shirt",true,Title,Default Title,,,,,"",500,shopify,14,deny,manual,15.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONtee600x450_94430566-a362-49e6-95fa-9d2f01f027b9.jpg?v=1431534179,,false,,,,,,,,,,,,,,,,,kg
+rebelution-t-shirt-size-extra-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONFAM1STGIG_53a35ccc-4e96-4a70-a019-65e90ea37fd3.png?v=1431534179,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-extra-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/11026130_850113145059749_8617193664672839970_n_579be10d-e342-415e-b0a0-400667628b3b.jpg?v=1431534179,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-extra-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/richy_8b74288b-aed8-4928-80e1-fa8773273e28.jpg?v=1431534179,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-extra-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/GABESTUDIO800_bd418e2b-f0dd-494c-884a-acf3f343f1f4.png?v=1431534179,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-large,REBELUTION T-SHIRT (Size: Large),"<h4>Limited edition REBELUTION T-Shirt, screen-printed by hand: </h4>
+<meta charset=""utf-8"">
+<p><span style=""color: #cc0000;""><b>Unisex, SIZE LARGE</b></span></p>
+<p>The physical release of REBELUTION's first EP is by t-shirt, exclusively designed and hand-printed by the collective of young artists. All 100 tees were hand-printed by young designer Richy Sayers, in collaboration with S.O.O.N clothing at the Art In Transit studio. Wear the artwork, join the family, spread the word!</p>
+<p>&lt;&lt; Only 100 made, on sale at Art Against Knives, get in quick! &gt;&gt;</p>
+<ul>
+<li>Screen-printed by hand, 100% cotton</li>
+<li>Limited edition of 100 only.</li>
+<li>Every purchase comes with the full EP to download.</li>
+</ul>
+<p>The decision to release the REBELUTION EP by tee was a natural one for the collective, following in footsteps including Prince, Mos Def and On Montreal and inspired by friends at indie label Polka Dot.</p>
+<p>CDs and vinyl live on shelves and sit still, but the REBELUTION message is made to be free - roaming the streets of London and beyond. The group wanted give friends and fans something beautiful and useful, whilst giving the brand legs.</p>
+<p>REBELUTION is a fresh young collective from London with a unique sound: led by hip-hop, shaped by grime, trap, RnB,acoustic, pop, rock and whatever else moves them.</p>
+The collective was formed during the On_TRACK music programme we run in Barnet, North London where 15 young people they threw hearts and talents into creating their first EP with the support of creative professionals and Role Models. All proceeds from sales go directly back into ART AGAINST KNIVES Charity to fund studio time for the collective.",Art Against Knives Gallery,T-Shirt,"silk screen print, T-shirt",true,Title,Default Title,,,,,"",500,shopify,20,deny,manual,15.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONtee600x450_78039caa-a530-4538-b31d-7f9b87461937.jpg?v=1431533941,,false,,,,,,,,,,,,,,,,,kg
+rebelution-t-shirt-size-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONFAM1STGIG_88852847-b1e5-4deb-8bf3-1f075995dc88.png?v=1431533941,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/11026130_850113145059749_8617193664672839970_n_8008c491-d029-4fe1-9eca-3e1cf287dc57.jpg?v=1431533941,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/richy_cef91bff-5b6a-47b6-9976-38ed5d7d397d.jpg?v=1431533941,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-large,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/GABESTUDIO800_0471ac72-aa0f-4e6f-b7a9-403794ab4b2a.png?v=1431533941,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-medium,REBELUTION T-SHIRT (Size: Medium),"<h4>Limited edition REBELUTION T-Shirt, screen-printed by hand: </h4>
+<meta charset=""utf-8"">
+<p><span style=""color: #cc0000;""><b>Unisex, SIZE MEDIUM</b></span></p>
+<p>The physical release of REBELUTION's first EP is by t-shirt, exclusively designed and hand-printed by the collective of young artists. All 100 tees were hand-printed by young designer Richy Sayers, in collaboration with S.O.O.N clothing at the Art In Transit studio. Wear the artwork, join the family, spread the word!</p>
+<p>&lt;&lt; Only 100 made, on sale at Art Against Knives, get in quick! &gt;&gt;</p>
+<ul>
+<li>Screen-printed by hand, 100% cotton</li>
+<li>Limited edition of 100 only.</li>
+<li>Every purchase comes with the full EP to download.</li>
+</ul>
+<p>The decision to release the REBELUTION EP by tee was a natural one for the collective, following in footsteps including Prince, Mos Def and On Montreal and inspired by friends at indie label Polka Dot.</p>
+<p>CDs and vinyl live on shelves and sit still, but the REBELUTION message is made to be free - roaming the streets of London and beyond. The group wanted give friends and fans something beautiful and useful, whilst giving the brand legs.</p>
+<p>REBELUTION is a fresh young collective from London with a unique sound: led by hip-hop, shaped by grime, trap, RnB,acoustic, pop, rock and whatever else moves them.</p>
+The collective was formed during the On_TRACK music programme we run in Barnet, North London where 15 young people they threw hearts and talents into creating their first EP with the support of creative professionals and Role Models. All proceeds from sales go directly back into ART AGAINST KNIVES Charity to fund studio time for the collective.",Art Against Knives Gallery,T-Shirt,"silk screen print, T-shirt",true,Title,Default Title,,,,,"",0,shopify,10,deny,manual,15.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONtee600x450_e3605810-cd72-4b08-ae92-f5fcfeafd6b4.jpg?v=1431521442,,false,,,,,,,,,,,,,,,,,g
+rebelution-t-shirt-size-medium,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONFAM1STGIG_6f4bc5e3-28b1-4a11-a7a5-ec8a9cd2ee1e.png?v=1431521442,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-medium,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/11026130_850113145059749_8617193664672839970_n_4ae27309-aceb-450e-8bd6-7e02e0fad2bc.jpg?v=1431521442,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-medium,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/richy_16000433-07c1-4c03-a9e5-77e296098870.jpg?v=1431521442,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-medium,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/GABESTUDIO800_051cf77a-e2fd-4cf8-b51e-c9970fe90ca2.png?v=1431521442,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-small,REBELUTION T-SHIRT (Size: Small),"<h4>Limited edition REBELUTION T-Shirt, screen-printed by hand: </h4>
+<meta charset=""utf-8"">
+<p><span style=""color: #cc0000;""><b>Unisex, SIZE SMALL</b></span></p>
+<p>The physical release of REBELUTION's first EP is by t-shirt, exclusively designed and hand-printed by the collective of young artists. All 100 tees were hand-printed by young designer Richy Sayers, in collaboration with S.O.O.N clothing at the Art In Transit studio. Wear the artwork, join the family, spread the word!</p>
+<p>&lt;&lt; Only 100 made, on sale at Art Against Knives, get in quick! &gt;&gt;</p>
+<ul>
+<li>Screen-printed by hand, 100% cotton</li>
+<li>Limited edition of 100 only.</li>
+<li>Every purchase comes with the full EP to download.</li>
+</ul>
+<p>The decision to release the REBELUTION EP by tee was a natural one for the collective, following in footsteps including Prince, Mos Def and On Montreal and inspired by friends at indie label Polka Dot.</p>
+<p>CDs and vinyl live on shelves and sit still, but the REBELUTION message is made to be free - roaming the streets of London and beyond. The group wanted give friends and fans something beautiful and useful, whilst giving the brand legs.</p>
+<p>REBELUTION is a fresh young collective from London with a unique sound: led by hip-hop, shaped by grime, trap, RnB,acoustic, pop, rock and whatever else moves them.</p>
+The collective was formed during the On_TRACK music programme we run in Barnet, North London where 15 young people they threw hearts and talents into creating their first EP with the support of creative professionals and Role Models. All proceeds from sales go directly back into ART AGAINST KNIVES Charity to fund studio time for the collective.",Art Against Knives Gallery,T-Shirt,"silk screen print, T-shirt",true,Title,Default Title,,,,,"",500,shopify,14,deny,manual,15.00,,true,false,"",https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONtee600x450.jpg?v=1431520816,,false,,,,,,,,,,,,,,,,,kg
+rebelution-t-shirt-size-small,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/REBELUTIONFAM1STGIG.png?v=1431520820,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-small,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/11026130_850113145059749_8617193664672839970_n.jpg?v=1431520821,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-small,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/richy.jpg?v=1431520822,,,,,,,,,,,,,,,,,,,
+rebelution-t-shirt-size-small,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/GABESTUDIO800.png?v=1431520827,,,,,,,,,,,,,,,,,,,
+limited-edition-white-secret-7-tee,"LIMITED EDITION WHITE SECRET 7"" TEE","<p>100% Cotton Unisex T Shirt</p>
+<p>Screen Printed Secret 7"" Logo</p>
+<p>Available in sizes S, M, L, XL</p>
+<p>Limited Edition for Secret 7"" 2013, exclusive to ART AGAINST KNIVES GALLERY</p>
+",Art Against Knives Gallery,T-Shirt,"",true,Size,Small,,,,,"",0,shopify,1,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/logo_W.jpg?v=1365697687,,false,,,,,,,,,,,,,,,,,oz
+limited-edition-white-secret-7-tee,,,,,,,,Medium,,,,,"",0,shopify,0,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/White_T.jpg?v=1365697715,,,,,,,,,,,,,,,,,,,oz
+limited-edition-white-secret-7-tee,,,,,,,,Large,,,,,"",0,shopify,1,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Side_W.jpg?v=1365697794,,,,,,,,,,,,,,,,,,,oz
+limited-edition-white-secret-7-tee,,,,,,,,X Large,,,,,"",0,shopify,0,deny,manual,10.00,,true,true,"",,,,,,,,,,,,,,,,,,,,oz
+limited-edition-black-secret-7-tee,"LIMITED EDITION BLACK SECRET 7"" TEE","<p>100% Cotton Unisex T Shirt</p>
+<p>Screen Printed Secret 7"" Logo</p>
+<p>Available in sizes S, M, L, XL</p>
+<p>Limited Edition for Secret 7"" 2013, exclusive to ART AGAINST KNIVES GALLERY</p>
+",Art Against Knives Gallery,T-Shirt,"",true,Size,Small,,,,,"",0,,1,deny,manual,10.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3005.jpg?v=1365698144,,false,,,,,,,,,,,,,,,,,oz
+limited-edition-black-secret-7-tee,,,,,,,,Medium,,,,,"",0,,1,deny,manual,10.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Black_T.jpg?v=1365698209,,,,,,,,,,,,,,,,,,,oz
+limited-edition-black-secret-7-tee,,,,,,,,Large,,,,,"",0,,1,deny,manual,10.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Side_B.jpg?v=1365698231,,,,,,,,,,,,,,,,,,,oz
+limited-edition-black-secret-7-tee,,,,,,,,X Large,,,,,"",0,,1,deny,manual,10.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+secret-7-limited-edition-print,"SECRET 7"" LIMITED EDITION PRINT","<p>Secret 7'' x Matt(H)Booth</p>
+<div></div>
+<div>7 colour visualisation screen print of the tracks featured in Secret 7'' 2013.</div>
+<div>Hand stamped with the Secret 7'' logo.</div>
+<div>Limited edition of 200. </div>
+<div> </div>
+<div>GFSmith A2 Naturalis absolute white matt 330gsm.</div>
+<div>Printed at Print Club London.</div>
+<div></div>","SECRET 7""",Print,SECRET 7,true,Title,"SECRET 7"" LIMITED EDITION PRINT",Size,A2,,,SECRET-001,0,shopify,19,deny,manual,20.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/aak_8.jpg?v=1365685945,,false,,,,,,,,,,,,,,,,,oz
+secret-7-limited-edition-print,,,,,,,,FRAMED,,A2,,,"",0,shopify,19,deny,manual,100.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_011.jpg?v=1365686060,,,,,,,,,,,,,,,,,,,oz
+secret-7-limited-edition-print,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_013.jpg?v=1365686096,,,,,,,,,,,,,,,,,,,
+secret-7-limited-edition-print,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_014.jpg?v=1365686140,,,,,,,,,,,,,,,,,,,
+secret-7-limited-edition-print,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_016.jpg?v=1365686188,,,,,,,,,,,,,,,,,,,
+secret-7-limited-edition-print,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_015.jpg?v=1365686229,,,,,,,,,,,,,,,,,,,
+secret-7-limited-edition-print,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_017.jpg?v=1365687338,,,,,,,,,,,,,,,,,,,
+secret-7-limited-edition-print,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_018.jpg?v=1365688919,,,,,,,,,,,,,,,,,,,
+secret-7-limited-edition-print,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/AAK_019.jpg?v=1365688979,,,,,,,,,,,,,,,,,,,
+flow-n-trees-leaves,FLOW N TREES - 'LEAVES',"<p><b></b></p>
+<div><b>
+  <div style=""display: inline !important; ""><span>
+    <div style=""display: inline !important; ""><b>
+      <p dir=""ltr"" style=""display: inline !important; ""><span></span></p>
+    </b></div>
+  </span></div>
+</b></div>
+<div>
+  <div><span class=""Apple-style-span"" style=""font-weight: 800; ""><b>
+    <p dir=""ltr"" style=""display: inline !important; ""><span>FLOW N TREES</span></p>
+  </b></span></div>
+  <div><b style=""font-weight: 800; "">
+    <p dir=""ltr"" style=""display: inline !important; ""><span>BY LUKE ROGERS</span></p>
+  </b>
+    <div>
+      <p dir=""ltr"">I have created by designs especially for an up-and coming young music group from Hackney- they make a wide range of music but are heavily influenced by hip-hop music. I am currently making a documentary about them which is about the rise of their mixtape and their journey and what they want to achieve as young talented people. </p>
+      <p dir=""ltr""><span>I am currently on an creative digital media apprenticeship, where I get to learn a wide range of skills from graphic design to editing. I have big plans to launch my own brand, but by working and collaborating with other young people from Hackney I get the opportunity to start testing out my ideas and skills. In the future I would like to be successful in the creative industry- but I can’t really see myself going just one thing, I want to have a go at doing everything and hopefully I can be successful with it all!</span></p>
+    </div>
+  <br />
+  </div>
+</div>
+<div>
+  <div style=""font-weight: bold; ""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+  <div style=""font-weight: bold; ""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a>&nbsp;</span></div>
+</div>
+",DESIGN + MAKE,T-Shirt,"",true,Size,SMALL,,,,,SMALL,0,shopify,3,deny,manual,15.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/FLOW_N_TREES-_1.jpg?v=1365677638,,false,,,,,,,,,,,,,,,,,oz
+flow-n-trees-leaves,,,,,,,,MEDIUM,,,,,MEDIUM,0,shopify,2,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+flow-n-trees-leaves,,,,,,,,LARGE,,,,,LARGE,0,shopify,2,deny,manual,15.00,,true,true,"",,,,,,,,,,,,,,,,,,,,oz
+flow-n-trees-leaves,,,,,,,,XTRA LARGE,,,,,XTRA LARGE,0,shopify,1,deny,manual,15.00,,true,true,"",,,,,,,,,,,,,,,,,,,,oz
+flow-n-trees-roots,FLOW N TREES - 'ROOTS',"<p><b></b></p>
+<div><b>
+  <div style=""display: inline !important; ""><span>
+    <div style=""display: inline !important; ""><b>
+      <p dir=""ltr"" style=""display: inline !important; ""><span></span></p>
+    </b></div>
+  </span></div>
+</b></div>
+<div>
+  <div><span class=""Apple-style-span"" style=""font-weight: 800; ""><b>
+    <p dir=""ltr"" style=""display: inline !important; ""><span>FLOW N TREES</span></p>
+  </b></span></div>
+  <div><b style=""font-weight: 800; "">
+    <p dir=""ltr"" style=""display: inline !important; ""><span>BY LUKE ROGERS</span></p>
+  </b>
+    <div>
+      <p dir=""ltr"">I have created by designs especially for an up-and coming young music group from Hackney- they make a wide range of music but are heavily influenced by hip-hop music. I am currently making a documentary about them which is about the rise of their mixtape and their journey and what they want to achieve as young talented people. </p>
+      <p dir=""ltr""><span>I am currently on an creative digital media apprenticeship, where I get to learn a wide range of skills from graphic design to editing. I have big plans to launch my own brand, but by working and collaborating with other young people from Hackney I get the opportunity to start testing out my ideas and skills. In the future I would like to be successful in the creative industry- but I can’t really see myself going just one thing, I want to have a go at doing everything and hopefully I can be successful with it all!</span></p>
+    </div>
+  <br />
+  </div>
+</div>
+<div>
+  <div style=""font-weight: bold; ""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+  <div style=""font-weight: bold; ""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a>&nbsp;</span></div>
+</div>
+",DESIGN + MAKE,T-Shirt,"",true,Size,SMALL,,,,,SMALL,0,shopify,0,deny,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Flow_and_Trees.jpg?v=1370258097,,false,,,,,,,,,,,,,,,,,oz
+flow-n-trees-roots,,,,,,,,MEDIUM,,,,,MEDIUM,0,shopify,1,deny,manual,15.00,,true,true,"",,,,,,,,,,,,,,,,,,,,oz
+flow-n-trees-roots,,,,,,,,LARGE,,,,,LARGE,0,shopify,3,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+flow-n-trees-roots,,,,,,,,XTRA LARGE,,,,,XTRA LARGE,0,shopify,1,deny,manual,15.00,,true,true,"",,,,,,,,,,,,,,,,,,,,oz
+the-milkshake-club-milkshake-straws,THE MILKSHAKE CLUB - 'MILKSHAKE STRAWS',"<p><b></b></p>
+<div><b>
+  <div style=""display: inline !important; ""><span>
+    <div style=""display: inline !important; ""><b>
+      <p dir=""ltr"" style=""display: inline !important; ""><span></span></p>
+    </b></div>
+  </span></div>
+</b></div>
+<div>
+  <div><b>
+    <div style=""display: inline !important; ""><b>
+      <p dir=""ltr"" style=""display: inline !important; ""><span>THE MILKSHAKE CLUB</span></p>
+    </b></div>
+  </b></div>
+  <div><span class=""Apple-style-span"" style=""font-weight: 800; ""><b>
+    <div style=""display: inline !important; ""><b>
+      <p dir=""ltr"" style=""display: inline !important; ""><span>BY MICHAEL AFRIFA + KAYODE THOMAS</span></p>
+    </b></div>
+  </b></span></div>
+  <div>
+    <div>
+      <p dir=""ltr"">Our brand ‘The Milkshake Club’ &nbsp;was founded in the summer of 2009 when we were 17. We were both friends with an interest in fashion, media and graphic design and we wanted create a brand that was unique, individual and different from everything else that was out there...</p>
+      <p dir=""ltr""><span>People like what no one else has, and we love coming out with limited edition, exclusive shirts rather than mass-producing things. Once a shirt is sold out, we never produce them again. We want to create a strong brand with loyal customers who truly enjoy and appreciate what we’ve created instead of it just being another fad. </span></p>
+      <p dir=""ltr""><span>Without selling out, we’ve managed to build a business, completely homegrown. We’ve done it without going down your typical route; no degree needed, no start-up loans, no investors, no help from giant stores, and little-to-no advertising. Since our involvement in Design + Make project last year, we have continued to work with </span><span>ART AGAINST KNIVES because they have given us the opportunity to showcase what the younger generation like ourselves has to offer.</span></p>
+    </div>
+  </div>
+</div>
+<div>
+  <div><span class=""Apple-style-span"" style=""font-weight: 800;""><br />
+  </span></div>
+  <div style=""font-weight: bold; ""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+  <div style=""font-weight: bold; ""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a>&nbsp;</span></div>
+</div>
+",DESIGN + MAKE,T-Shirt,"",true,Title,MEDIUM,,,,,MEDIUM,0,shopify,0,deny,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/TMC_-_Design1.jpg?v=1365676837,,false,,,,,,,,,,,,,,,,,oz
+the-milkshake-club-milkshake-straws,,,,,,,,LARGE,,,,,LARGE,0,shopify,0,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+the-milkshake-club-milkshake-straws,,,,,,,,XTRA LARGE,,,,,XTRA LARGE,0,shopify,2,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+the-milkshake-club-milkshake-spots,THE MILKSHAKE CLUB - 'MILKSHAKE SPOTS',"<p> </p>
+<div>
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<p dir=""ltr"" style=""display: inline !important;""> </p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div style=""display: inline !important;"">
+<p dir=""ltr"" style=""display: inline !important;""><span>THE MILKSHAKE CLUB</span></p>
+</div>
+</div>
+<div>
+<div style=""display: inline !important;"">
+<p dir=""ltr"" style=""display: inline !important;""><span>BY MICHAEL AFRIFA + KAYODE THOMAS</span></p>
+</div>
+</div>
+<div>
+<div>
+<p dir=""ltr"">Our brand ‘The Milkshake Club’  was founded in the summer of 2009 when we were 17. We were both friends with an interest in fashion, media and graphic design and we wanted create a brand that was unique, individual and different from everything else that was out there...</p>
+<p dir=""ltr""><span>People like what no one else has, and we love coming out with limited edition, exclusive shirts rather than mass-producing things. Once a shirt is sold out, we never produce them again. We want to create a strong brand with loyal customers who truly enjoy and appreciate what we’ve created instead of it just being another fad. </span></p>
+<p dir=""ltr""><span>Without selling out, we’ve managed to build a business, completely homegrown. We’ve done it without going down your typical route; no degree needed, no start-up loans, no investors, no help from giant stores, and little-to-no advertising. Since our involvement in Design + Make project last year, we have continued to work with </span><span>ART AGAINST KNIVES because they have given us the opportunity to showcase what the younger generation like ourselves has to offer.</span></p>
+</div>
+</div>
+</div>
+<div>
+<div><span class=""Apple-style-span"" style=""font-weight: 800;""><br> </span></div>
+<div style=""font-weight: bold;""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+<div style=""font-weight: bold;""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a> </span></div>
+</div>",DESIGN + MAKE,T-Shirt,"",true,Title,LARGE,,,,,LARGE,0,shopify,0,continue,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/TMC_-_Design2.jpg?v=1365676557,,false,,,,,,,,,,,,,,,,,oz
+the-milkshake-club-milkshake-spots,,,,,,,,XTRA LARGE,,,,,XTRA LARGE,0,shopify,1,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+white-collar-suits,WHITE COLLAR- 'SUITS',"<p> </p>
+<div>
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<b> </b>
+<p dir=""ltr"" style=""display: inline !important;""> </p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<p dir=""ltr"" style=""display: inline !important;""><b>WHITE COLLAR</b></p>
+</div>
+<div>
+<p dir=""ltr"" style=""display: inline !important;""><b>BY KOREY DIXON</b></p>
+<br> <b><span></span></b>
+<p dir=""ltr"">My brand ‘White Collar’ is inspired by the the average white collar hard working person. I want to inspire people to use everyday to their full potential, I believe that people are becoming more timid and afraid to take a risk in life. By using bold designs based around the suits of playing cards, the clothing will mirror the lifestyle it is trying to promote - encouraging young people to take chances and be daring in their attitude to their lives.  White Collar is a symbol for progression - as a brand we believe you should take a chance to create a chance within your life and maybe even within the world.</p>
+<span></span>
+<p dir=""ltr"">I want to inspire a younger generation to become aware of their full potential and to aim bigger.  CHANCE. CHANGE. CREATION. I hope my brand is successful so that it can be an example to other young people, it will show them that you can achieve your dreams and aspirations. The company White Collar in this way, becomes a symbol of success and progression to young people in Hackney. Through the promotion of my brand I will address the problem of limited opportunities available to young people in Hackney by working with AStarz to engage and support young people, providing education, employment and training opportunities for them.</p>
+</div>
+</div>
+<div>
+<div><span class=""Apple-style-span"" style=""font-weight: 800;""><br> </span></div>
+<div style=""font-weight: bold;""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+<div style=""font-weight: bold;""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a> </span></div>
+</div>",DESIGN + MAKE,T-Shirt,T-shirt,true,Size,SMALL,,,,,SMALL,0,shopify,2,deny,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/WC-1.jpg?v=1365675899,,false,,,,,,,,,,,,,,,,,oz
+white-collar-suits,,,,,,,,MEDIUM,,,,,MEDIUM,0,shopify,0,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+white-collar-suits,,,,,,,,LARGE,,,,,LARGE,0,shopify,3,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+white-collar-suits,,,,,,,,XTRA LARGE,,,,,"",0,shopify,1,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+white-collar-crest,WHITE COLLAR- 'CREST',"<p> </p>
+<div>
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<b> </b>
+<p dir=""ltr"" style=""display: inline !important;""> </p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<p dir=""ltr"" style=""display: inline !important;""><b>WHITE COLLAR</b></p>
+</div>
+<div>
+<p dir=""ltr"" style=""display: inline !important;""><b>BY KOREY DIXON</b></p>
+<br> <b><span></span></b>
+<p dir=""ltr"">My brand ‘White Collar’ is inspired by the the average white collar hard working person. I want to inspire people to use everyday to their full potential, I believe that people are becoming more timid and afraid to take a risk in life. By using bold designs based around the suits of playing cards, the clothing will mirror the lifestyle it is trying to promote - encouraging young people to take chances and be daring in their attitude to their lives.  White Collar is a symbol for progression - as a brand we believe you should take a chance to create a chance within your life and maybe even within the world.</p>
+<span></span>
+<p dir=""ltr""><span>I want to inspire a younger generation to become aware of their full potential and to aim bigger.  CHANCE. CHANGE. CREATION. I hope my brand is successful so that it can be an example to other young people, it will show them that you can achieve your dreams and aspirations. The company White Collar in this way, becomes a symbol of success and progression to young people in Hackney. Through the promotion of my brand I will address the problem of limited opportunities available to young people in Hackney by working with AStarz to engage and support young people, providing education, employment and training opportunities for them.</span></p>
+</div>
+</div>
+<div>
+<div><span class=""Apple-style-span"" style=""font-weight: 800;""><br> </span></div>
+<div style=""font-weight: bold;""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+<div style=""font-weight: bold;""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a> </span></div>
+</div>",DESIGN + MAKE,T-Shirt,T-shirt,true,Size,SMALL,,,,,SMALL,0,shopify,2,deny,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/WC-2.jpg?v=1365675798,,false,,,,,,,,,,,,,,,,,oz
+white-collar-crest,,,,,,,,MEDIUM,,,,,MEDIUM,0,shopify,2,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+white-collar-crest,,,,,,,,LARGE,,,,,LARGE,0,shopify,2,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+white-collar-crest,,,,,,,,XTRA LARGE,,,,,XTRA LARGE,0,shopify,1,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+astarz-desire-to-improve,ASTARZ - 'DESIRE TO IMPROVE',"<p> </p>
+<div>
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<p dir=""ltr"" style=""display: inline !important;""><span>ASTARZ</span></p>
+</div>
+</div>
+</div>
+<div>
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<p dir=""ltr"" style=""display: inline !important;""><span>BY ATINUKE INAKOJU</span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<p dir=""ltr"">In April 2010 I lost my younger sister to gun crime, she was caught in gang crossfire in a chicken shop in Hoxton. It is this tragic loss that has motivated me to create something positive from such a life-changing experience. Unlike other anti-gun crime campaigns, I want my designs to be attractive to a really wide audience because even if you don’t think you have personal connections with the issue- you can make a difference.</p>
+<span></span>
+<p dir=""ltr"">“I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day” This is the quote that Agness posted on her facebook the day that she died-  this is the inspiration for AStarz and the reason I strive to make a difference for other young people. Through my T-shirts I hope to encourage all young people to wake up and think like this.  </p>
+</div>
+</div>
+<div style=""font-weight: bold;""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+<div style=""font-weight: bold;""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a> </span></div>
+</div>",DESIGN + MAKE,T-Shirt,"",true,Title,SMALL,,,,,MEDIUM,0,shopify,1,deny,manual,15.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/AS_-2.jpg?v=1365675456,,false,,,,,,,,,,,,,,,,,oz
+astarz-desire-to-improve,,,,,,,,XTRA LARGE,,,,,XTRA LARGE,0,shopify,4,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+astars-guns-roses,ASTARS - 'GUNS + ROSES',"<p> </p>
+<div>
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<p dir=""ltr"" style=""display: inline !important;""><span>ASTARZ</span></p>
+</div>
+</div>
+</div>
+<div>
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<div style=""display: inline !important;"">
+<p dir=""ltr"" style=""display: inline !important;""><span>BY ATINUKE INAKOJU</span></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<p dir=""ltr"">In April 2010 I lost my younger sister to gun crime, she was caught in gang crossfire in a chicken shop in Hoxton. It is this tragic loss that has motivated me to create something positive from such a life-changing experience. Unlike other anti-gun crime campaigns, I want my designs to be attractive to a really wide audience because even if you don’t think you have personal connections with the issue- you can make a difference.</p>
+<span></span>
+<p dir=""ltr""><span>“</span><span>I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day” </span><span>This is the quote that Agness posted on her facebook the day that she died-  this is the inspiration for AStarz and the reason I strive to make a difference for other young people. Through my T-shirts I hope to encourage all young people to wake up and think like this.  </span></p>
+</div>
+<span class=""Apple-style-span"" style=""font-weight: 800;""><br> </span>
+</div>
+<div style=""font-weight: bold;""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+<div style=""font-weight: bold;""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a> </span></div>
+</div>",DESIGN + MAKE,T-Shirt,"",true,Size,LARGE,,,,,LARGE,0,shopify,0,deny,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/AS_-_Design1.jpg?v=1365675246,,false,,,,,,,,,,,,,,,,,oz
+astars-guns-roses,,,,,,,,X LARGE,,,,,X LARGE,0,shopify,1,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script-1,THEFT OF YOUTH - 'BLOCKS',"<p> </p>
+<p dir=""ltr"" style=""display: inline !important;""> </p>
+<div>
+<div>
+<p><b><b>THEFT OF YOUTH<br> </b></b><b>BY DANIAL GORDAN</b></p>
+</div>
+</div>
+My brand is called T.O.Y which stands for ‘Theft of Youth.’ I have been through alot in my life, but I am still young- I feel like my youth has been taken away from me. Through my brand I would like make sure that other young people don’t make the same mistake and encourage them to recognise that they are still young and should enjoy being young. I would like to be part of making a change and hopefully I can inspire young people to rethink their behaviour and choices they are making as they are growing up.
+<div>
+<p dir=""ltr""><span>I have big plans to grow my brand, working alongside my cousin who is the designer- I want to learn about how to grow a business and make it as successful as I can. We have lots of ideas for future designs, all of these are inspired by toys and images that we associate with growing up. So watch this space for more T.O.Y collectable T-shirts!</span></p>
+<div style=""font-weight: bold;""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+<div style=""font-weight: bold;""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a> </span></div>
+</div>",DESIGN + MAKE,T-Shirt,"",true,Size,SMALL,,,,,SMALL,0,shopify,0,deny,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/TOY.jpg?v=1365674719,,false,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script-1,,,,,,,,MEDIUM,,,,,MEDIUM,0,shopify,2,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script-1,,,,,,,,LARGE,,,,,LARGE,0,shopify,0,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script-1,,,,,,,,XTRA LARGE,,,,,XTRA LARGE,0,shopify,1,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script,THEFT OF YOUTH - 'SCRIPT',"<p> </p>
+<p dir=""ltr"" style=""display: inline !important;""> </p>
+<div>
+<p dir=""ltr"" style=""display: inline !important;""><b><b>THEFT OF YOUTH<br> </b></b><b>BY DANIAL GORDAN</b></p>
+</div>
+<div>
+<p dir=""ltr"" style=""display: inline !important;""> </p>
+</div>
+My brand is called T.O.Y which stands for ‘Theft of Youth.’ I have been through alot in my life, but I am still young- I feel like my youth has been taken away from me. Through my brand I would like make sure that other young people don’t make the same mistake and encourage them to recognise that they are still young and should enjoy being young. I would like to be part of making a change and hopefully I can inspire young people to rethink their behaviour and choices they are making as they are growing up.
+<div>
+<p dir=""ltr"">I have big plans to grow my brand, working alongside my cousin who is the designer- I want to learn about how to grow a business and make it as successful as I can. We have lots of ideas for future designs, all of these are inspired by toys and images that we associate with growing up. So watch this space for more T.O.Y collectable T-shirts!</p>
+<div style=""font-weight: bold;""><span>SILKSCREEN PRINTED T-SHIRT</span></div>
+<div style=""font-weight: bold;""><span>PRODUCED BY <a href=""http://www.mercuryclothing.com/"">MERCURY CLOTHING</a> </span></div>
+</div>",DESIGN + MAKE,T-Shirt,"",true,Size,SMALL,,,,,SMALL,0,shopify,1,deny,manual,15.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/toy___design1.jpg?v=1365674049,,false,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script,,,,,,,,MEDIUM,,,,,MEDIUM,0,shopify,0,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script,,,,,,,,LARGE,,,,,LARGE,0,shopify,1,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+theft-of-youth-script,,,,,,,,XTRA LARGE,,,,,"",0,shopify,0,deny,manual,15.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+full-collection-of-christmas-cards,Full Collection of Christmas Cards,<p> <span>Pack of sixteen limited edition Christmas cards designed by artists. Dimensions 21 x 14.8 cm. Every card is from an edition size /200. </span></p>,The Picture Project,Print,"",false,Title,Default Title,,,,,"",0,shopify,0,deny,manual,8.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Christmas_card_collection_1.jpg?v=1354036716,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-ian-bruce,Christmas Cards by Ian Bruce,<p><span>Pack of six limited edition Christmas cards by Ian Bruce. Dimensions 21 x 14.8 cm. Edition size /200.</span></p>,The Picture Project,Collaboration,"",false,Title,Default Title,,,,,"",0,shopify,19,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/IanBRUCEC_presents_RubiCANE.jpg?v=1354035351,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-ian-bruce,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IanBRUCEC_presents_RubiCANE.jpg?v=1354035307,,,,,,,,,,,,,,,,,,,
+christmas-card-by-laurence-owen,Christmas Cards by Laurence Owen,<p><span>Pack of six limited edition Christmas cards by Laurence Owen. Dimensions 21 x 14.8 cm. Edition size /100. </span></p>,The Picture Project,Print,"",false,Title,Default Title,,,,,"",0,shopify,20,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/laurence_owen._untitled_32___37x28cm.jpg?v=1354035043,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-laurence-owen,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Laurence_Owen._Untitled_32_-_37x28cm.jpg?v=1354035061,,,,,,,,,,,,,,,,,,,
+christmas-card-by-man-like-me-1,Christmas Cards by Man Like Me,<p>Pack of six limited edition Christmas cards by Man Like Me. Dimensions 21 x 14.8 cm. Edition size /200.</p>,Art Against Knives Gallery,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,10,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Man_Like_Me.jpeg?v=1354035090,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-man-like-me-1,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Man_Like_Me_2.jpeg?v=1354034941,,,,,,,,,,,,,,,,,,,
+christmas-card-by-duffy-jewellery,Christmas Cards by Duffy Jewellery,<p>Pack of six limited edition Christmas cards by Duffy Jewellery. Dimensions 21 x 14.8 cm. Edition size /200.</p>,The Picture Project,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,11,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Duffy.jpg?v=1354034813,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-duffy-jewellery,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Duffy.jpg?v=1354034777,,,,,,,,,,,,,,,,,,,
+christmas-card-by-work-it,Christmas Cards by Work It,<p>Pack of six limited edition Christmas cards by Work It. Dimensions 21 x 14.8 cm. Edition size /200.</p>,The Picture Project,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,12,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Work_It.jpeg?v=1354034618,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-work-it,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Work_It_1.jpeg?v=1354034564,,,,,,,,,,,,,,,,,,,
+christmas-card-by-tom-beard,Cards by Tom Beard,<p>Pack of six limited edition cards by Tom Beard. Dimensions 21 x 14.8 cm. Edition size /200. Blank inside.</p>,The Picture Project,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,1,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Tom_Beard.jpg?v=1354888328,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-tom-beard,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Tom_Beard.jpg?v=1354888301,,,,,,,,,,,,,,,,,,,
+christmas-card-by-quentin-jones,Christmas Cards by Quentin Jones,<p>Pack of six limited edition Christmas cards by Quentin Jones. Dimensions 21 x 14.8 cm. Edition size /200.</p>,The Picture Project,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,17,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Quentin_Jones.jpg?v=1354888586,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-quentin-jones,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Quentin_Jones.jpg?v=1354888492,,,,,,,,,,,,,,,,,,,
+christmas-card-by-saloni,Cards by Saloni,<p> Pack of six limited edition cards by Saloni. Dimensions 21 x 14.8 cm. Edition size /200. Blank inside.</p>,The Picture Project,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,0,deny,manual,5.00,0.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/SALONI.jpeg?v=1354034076,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-saloni,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/SALONI_1.jpeg?v=1354033955,,,,,,,,,,,,,,,,,,,
+christmas-card-by-silken-flavours,Christmas Cards by Silken Favours,<p><span>Pack of six limited edition Christmas cards by Silken Flavour. Dimensions 21 x 14.8 cm. Edition size /200. </span></p>,The Picture Project,Print,"",false,Title,Default Title,,,,,"",0,shopify,0,deny,manual,6.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/silken_favours.jpeg?v=1354033816,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-silken-flavours,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Silken_Favours_1.jpeg?v=1354033902,,,,,,,,,,,,,,,,,,,
+david-wilson-christmas-card,Christmas Cards by David Wilson,<p>Pack of six limited edition Christmas cards by David Wilson. Dimensions 21 x 14.8 cm. Edition size /200.</p>,The Picture Project,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,0,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/David_Wilson.jpg?v=1354040803,,false,,,,,,,,,,,,,,,,,oz
+david-wilson-christmas-card,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/David_Wilson.jpg?v=1354887965,,,,,,,,,,,,,,,,,,,
+patternity-christmas-card,Cards by Patternity,<div><span>Pack of 6 limited edition cards designed by Patternity. Dimensions 21cm x 14.8cm. Edition size / 200. Blank inside.</span></div>,The Picture Project,Print,"",false,Size,21 x 14.8cm,,,,,"",0,shopify,1,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Patternity.jpg?v=1354888365,,false,,,,,,,,,,,,,,,,,oz
+patternity-christmas-card,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Patternity.jpg?v=1354887925,,,,,,,,,,,,,,,,,,,
+christmas-card-by-rankin,Christmas Cards by Rankin,<p>Pack of six limited edition Christmas cards by Rankin. Dimensions 21 x 14.8 cm. Edition size /200. </p>,The Picture Project,Collaboration,"",false,Title,Default Title,,,,,"",0,shopify,4,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/RANKIN.jpeg?v=1354033143,,false,,,,,,,,,,,,,,,,,oz
+christmas-card-by-rankin,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/RANKIN_1.jpeg?v=1354033019,,,,,,,,,,,,,,,,,,,
+rose-de-borman-christmas-card,Cards by Rose de Borman,<p><span>Pack of 6 limited edition cards designed by Rose de Borman. Dimensions 21cm x 14.8cm. Edition size / 200. Blank inside.</span></p>,The Picture Project,Collaboration,"",false,Size,21 x 14.8cm,,,,,"",0,shopify,3,deny,manual,5.00,0.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Rose_De_Borman.jpg?v=1354888221,,false,,,,,,,,,,,,,,,,,oz
+rose-de-borman-christmas-card,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Rose_De_Borman.jpg?v=1354888165,,,,,,,,,,,,,,,,,,,
+kayode-thomas-christmas-card,Christmas Cards by Kayode Thomas,<p>Pack of 6 limited edition Christmas cards designed by Kyode Thomas. Dimensions 21cm x 14.8cm. Edition size / 200.</p>,The Picture Project,Print,"",false,Size,21 x 14.8cm,,,,,"",0,shopify,11,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/kayode_thomas.jpeg?v=1354031890,,false,,,,,,,,,,,,,,,,,oz
+kayode-thomas-christmas-card,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Kayode_Thomas_1.jpeg?v=1354031900,,,,,,,,,,,,,,,,,,,
+marc-quinn-christmas-cards,Cards by Marc Quinn,<p>Pack of six limited edition cards designed by Marc Quinn. Dimensions 21 x 14.8 cm. Edition size /200. Blank inside.</p>,The Picture Project,Collaboration,"",false,Size,Default Size,,,,,"",0,shopify,0,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/MarcQuinn_StardustSeries_2012.jpg?v=1354888724,,false,,,,,,,,,,,,,,,,,oz
+marc-quinn-christmas-cards,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/MarcQuinn_StardustSeries_2012.jpg?v=1354888646,,,,,,,,,,,,,,,,,,,
+cage-40-by-fran-giffard,Cage 40 by Fran Giffard,"<p><span>Limited Edition Giclee Print on Paper. Dimensions 42cm x 59.4cm. Edition of 30. Made to order.</span></p>
+",The Contemporary London,Print,"",false,Title,Default Title,Size,42 x 59.4cm,,,"",0,shopify,10,deny,manual,100.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Hong-Kong_-cage-40-web.jpg?v=1354027935,,false,,,,,,,,,,,,,,,,,oz
+cage-40-by-fran-giffard,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Hong-Kong_-cage-40-web_1.jpg?v=1354028338,,,,,,,,,,,,,,,,,,,
+cage-44-by-fran-giffard,Cage 44 by Fran Giffard,"<p><span>Limited Edition Giclee Print on Paper. Dimensions 42cm x 59.4cm. Edition of 30. Made to order.</span></p>
+",The Contemporary London,Print,"",false,Title,Default Title,,,,,"",0,shopify,9,deny,manual,100.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/HK_-Cage-44-web.jpg?v=1354027470,,false,,,,,,,,,,,,,,,,,oz
+cage-44-by-fran-giffard,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/HK_-Cage-44-web_1.jpg?v=1354027480,,,,,,,,,,,,,,,,,,,
+46-by-sandra-erbach,# 46 by Sandra Erbach,"<p><span>Screen Print on Diasec mounted Giclee print. Dimensions 21cm x 29.7 cm. Edition of 3.</span><br>
+</p>
+",The Contemporary London,Print,"",false,Title,Default Title,Size,21 x 29.7 cm,,,"",0,shopify,1,deny,manual,480.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/SE-_46-web.jpg?v=1354023794,,false,,,,,,,,,,,,,,,,,oz
+46-by-sandra-erbach,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/SE-_46-web_1.jpg?v=1354023803,,,,,,,,,,,,,,,,,,,
+44-by-sandra-erbach,# 44 by Sandra Erbach,"<p><span>Screen Print on Diasec mounted Giclee print. Dimensions 29.7 cm x 42cm. Edition of 3.</span><br>
+</p>
+",The Contemporary London,Print,"",false,Title,Default Title,Size,29.7 x 42 cm,,,"",0,shopify,1,deny,manual,600.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/SE-_44-web.jpg?v=1354021726,,false,,,,,,,,,,,,,,,,,oz
+44-by-sandra-erbach,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/SE-_44-web_1.jpg?v=1354021735,,,,,,,,,,,,,,,,,,,
+45-by-sandra-erbach,# 45 by Sandra Erbach,"<p><span>Screen Print on Diasec mounted Giclee print. Dimensions 21cm x 29.7cm. Edition of 3.</span><br>
+</p>
+",The Contemporary London,Print,"",false,Title,Default Title,Size,21 x 29.7 cm,,,"",0,shopify,1,deny,manual,480.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/se__45_web.jpg?v=1354021476,,false,,,,,,,,,,,,,,,,,oz
+45-by-sandra-erbach,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/SE-_45-web.jpg?v=1354021495,,,,,,,,,,,,,,,,,,,
+maypole-by-jess-littlewood,Maypole by Jess Littlewood,"<p><span>Limited Edition Giclee Print on Paper. Dimension 42cm x 59.4cm. Edition of 50.</span><br>
+</p>
+",The Contemporary London,Print,"",false,Title,Default Title,Size,42 x 59.4cm,,,"",0,shopify,5,deny,manual,120.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/jl_maypole_web.jpg?v=1354021195,,false,,,,,,,,,,,,,,,,,oz
+tartan-by-rory-mccartney,Tartan by Rory McCartney,"<p><span>Screen print on Digital Print. Dimensions 40cm x 40cm. Edition of 15.</span></p>
+",The Contemporary London,Print,"",false,Size,40 x 40 cm,,,,,"",0,shopify,5,deny,manual,280.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/RM-Tartan-web.jpg?v=1353947845,,false,,,,,,,,,,,,,,,,,oz
+palm-and-rubbish-by-benjamin-buckley,Palm and Rubbish by Benjamin Buckley,"<div><span>Screen Print on 300gsm Sommerset White Satin. Dimensions 76cm x 56 cm. Edition of 20.</span></div>
+",The Contemporary London,Print,"",false,Size,76 x 56 cm,,,,,"",0,shopify,5,deny,manual,200.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Benjamin_Buckley-_Palm_and_Rubbish.jpg?v=1353947596,,false,,,,,,,,,,,,,,,,,oz
+palm-and-rubbish-by-benjamin-buckley,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Benjamin_Buckley-_Palm_and_Rubbish_1.jpg?v=1353947603,,,,,,,,,,,,,,,,,,,
+vacation-by-benjamin-buckley,Vacation? by Benjamin Buckley,"<div><span>Screen Print on 300gsm Sommerset White Satin. Dimensions 76cm x 56 cm. Edition of 20.</span></div>
+",The Contemporary London,Print,"",false,Size,76 x 56 cm,,,,,"",0,shopify,5,deny,manual,200.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Benjamin_Buckley-Vacation.jpg?v=1353947422,,false,,,,,,,,,,,,,,,,,oz
+vacation-by-benjamin-buckley,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Benjamin_Buckley-Vacation_1.jpg?v=1353947423,,,,,,,,,,,,,,,,,,,
+metamorphosis-by-greg-eason,Metamorphosis by Greg Eason,"<div><span>Giclee Print on Sommerset Paper. 30 cm x 40 cm. Edition of 30.</span></div>
+",The Contemporary London,Print,"",false,Size,30 x 40 cm,,,,,"",0,shopify,10,deny,manual,120.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/ge_metamorphosis_web.jpg?v=1353947211,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-greg-eason,Untitled by Greg Eason,"<div><span>Giclee Print on Sommerset Paper. Dimensions 16 cm x 9.55 cm. Edition of 75.</span></div>
+",The Contemporary London,Print,"",false,Size,16 x 9.55 cm,,,,,"",0,shopify,10,deny,manual,35.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/GE-Untitled-web.jpg?v=1353946733,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-greg-eason,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/GE-Untitled-web_1.jpg?v=1353946741,,,,,,,,,,,,,,,,,,,
+kaleidoscope-ii-by-jess-littlewood,Kaleidoscope II by Jess Littlewood,"<p><span>Limited Edition Giclee Print on Paper. Dimensions 42 cm x 42 cm. Edition of 50.</span></p>
+",The Contemporary London,Print,"",false,Size,42 x 42 cm,,,,,"",0,shopify,10,deny,manual,120.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Kaliedescope-2-web.jpg?v=1353946497,,false,,,,,,,,,,,,,,,,,oz
+kaleidoscope-i-by-jess-littlewood,Kaleidoscope I by Jess Littlewood,"<p><span>Limited Edition Giclee Print on Paper. Dimensions 42 cm x 42 cm. Edition of 50.</span></p>
+",The Contemporary London,Print,"",false,Size,42 x 42 cm,,,,,"",0,shopify,10,deny,manual,120.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/kaliedescope_1_web.jpg?v=1353946436,,false,,,,,,,,,,,,,,,,,oz
+untitled-inverted-flower-by-mercedes-baliarda,Untitled (Inverted Flower) by Mercedes Baliarda,"<p><span>Limited Edition Giclee Print on Paper. 24 cm x 26 cm. Edition of 50.</span></p>
+",The Contemporary London,Print,"",false,Size,24 cm x 26 cm,,,,,"",0,shopify,9,deny,manual,60.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/mb_inverted_flower_web_new.jpg?v=1353943268,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-mercedes-baliarda,Untitled (Layered Skull) by Mercedes Baliarda,"<p><span>Limited Edition Giclee Print on Paper. Dimensions 47 cm x 67 cm. Edition of 50.</span></p>
+",The Contemporary London,Print,"",false,Size,47 cm x 67 cm,,,,,"",0,shopify,10,deny,manual,120.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/mb_layered_skull_large.jpg?v=1353942969,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-mercedes-baliarda,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/MB-Layered-Skull-large.jpg?v=1353942979,,,,,,,,,,,,,,,,,,,
+ghost-bike-by-nneka-ladipo,Ghost Bike by Nneka Ladipo,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br> <br> These photographs were produced in a series of workshops led by GaelleTavernier through The Right Track programme at Off Centre (www.offcentre.org.uk/). The workshops encouraged young people from Hackney, London to take a closer look at their local landscape. These young people acquired technical skills in photography and producing their images in a darkroom. <br> <br> <i>“I use film and photography as an advocacy tool for social issues.” </i> Gaelle Tavernier   </p>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,21 x 29.7 cm,,,F0014,0,shopify,5,deny,manual,40.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Nneka_Ladipo-FREEDOM_4_small.jpg?v=1352897749,,false,,,,,,,,,,,,,,,,,oz
+ghost-bike-by-nneka-ladipo,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Nneka_Ladipo-FREEDOM_4_small_1.jpg?v=1352897761,,,,,,,,,,,,,,,,,,,
+untitled-by-lydia-noura,Untitled by Lydia Noura,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br> <br> These photographs were produced in a series of workshops led by GaelleTavernier through The Right Track programme at Off Centre (www.offcentre.org.uk/). The workshops encouraged young people from Hackney, London to take a closer look at their local landscape. These young people acquired technical skills in photography and producing their images in a darkroom. <br> <br> <i>“I use film and photography as an advocacy tool for social issues.”</i>  Gaelle Tavernier </p>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,21 x 29.7 cm,,,F0013,0,shopify,5,deny,manual,40.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Lydia_Noura-FREEDOM_1_small.jpg?v=1352902237,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-lydia-noura,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Lydia_Noura-FREEDOM_1_small_1.jpg?v=1352902276,,,,,,,,,,,,,,,,,,,
+bondage-by-lydia-noura,Bondage by Lydia Noura,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br> <br> These photographs were produced in a series of workshops led by GaelleTavernier through The Right Track programme at Off Centre (www.offcentre.org.uk/). The workshops encouraged young people from Hackney, London to take a closer look at their local landscape. These young people acquired technical skills in photography and producing their images in a darkroom. <br> <br> <i>“I use film and photography as an advocacy tool for social issues.”</i>  Gaelle Tavernier  </p>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,21 x 29.7 cm,,,F0012,0,shopify,5,deny,manual,40.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Lydia_Noura-FREEDOM_2_small.jpg?v=1352897008,,false,,,,,,,,,,,,,,,,,oz
+bondage-by-lydia-noura,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Lydia_Noura-FREEDOM_2_small_1.jpg?v=1352897021,,,,,,,,,,,,,,,,,,,
+light-awaken-by-ondre-roach,Light Awaken by Ondre Roach,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br> <br> These photographs were produced in a series of workshops led by GaelleTavernier through The Right Track programme at Off Centre (www.offcentre.org.uk/). The workshops encouraged young people from Hackney, London to take a closer look at their local landscape. These young people acquired technical skills in photography and producing their images in a darkroom. <br> <br> <i>“I use film and photography as an advocacy tool for social issues.”</i>  Gaelle Tavernier </p>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,21 x 29.7,,,F0011,0,shopify,5,deny,manual,40.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Ondre_Roach-FREEDOM_1_small.jpg?v=1352901964,,false,,,,,,,,,,,,,,,,,oz
+light-awaken-by-ondre-roach,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Ondre_Roach-FREEDOM_1_small_1.jpg?v=1352901978,,,,,,,,,,,,,,,,,,,
+prejudice-by-ondre-roach,Prejudice by Ondre Roach,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br> <br> These photographs were produced in a series of workshops led by GaelleTavernier through The Right Track programme at Off Centre (www.offcentre.org.uk/). The workshops encouraged young people from Hackney, London to take a closer look at their local landscape. These young people acquired technical skills in photography and producing their images in a darkroom. <br> <br> <i>“I use film and photography as an advocacy tool for social issues.”</i>  Gaelle Tavernier </p>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,21 x 29.7 cm,,,F0010,0,shopify,5,deny,manual,40.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Ondre_Roach-FREEDOM_2_small.jpg?v=1352902118,,false,,,,,,,,,,,,,,,,,oz
+prejudice-by-ondre-roach,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Ondre_Roach-FREEDOM_2_small_1.jpg?v=1352902127,,,,,,,,,,,,,,,,,,,
+untitled-iii-by-kezia-levitas,Untitled III by Kezia Levitas,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br> <br> Kezia Levitas is a London based photographer and illustrator, who has been involved with Art Against Knives for about 18 months. </p>
+<p dir=""ltr""> </p>
+<p dir=""ltr""><i>“I was really keen to exhibit in the gallery, and it’s great seeing everyone different responses to the same brief."" </i>Kezia Levitas </p>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,29.7 x 42 cm,,,F0009,0,shopify,5,deny,manual,60.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/KeziaLevitas-FREEDOM2.jpg?v=1352903081,,false,,,,,,,,,,,,,,,,,oz
+untitled-ii-by-kezia-levitas,Untitled II by Kezia Levitas,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br> <br> Kezia Levitas is a London based photographer and illustrator, who has been involved with Art Against Knives for about 18 months. </p>
+<p dir=""ltr""> </p>
+<p dir=""ltr""><i>“I was really keen to exhibit in the gallery, and it’s great seeing everyone different responses to the same brief."" </i>Kezia Levitas </p>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,29.7 x 42 cm,,,F0008,0,shopify,5,deny,manual,60.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/KeziaLevitas5.jpg?v=1352903005,,false,,,,,,,,,,,,,,,,,oz
+untitled-ii-by-kezia-levitas,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/KeziaLevitas6.jpg?v=1352903018,,,,,,,,,,,,,,,,,,,
+untitled-i-by-kezia-levitas,Untitled I by Kezia Levitas,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.<br />
+<span></span><br />
+Kezia Levitas is a London based photographer and illustrator, who has been involved with Art Against Knives for about 18 months. <br />
+</p>
+<p dir=""ltr""><span> </span></p>
+<p dir=""ltr""><i>“I was really keen to exhibit in the gallery, and it’s great seeing everyone different responses to the same brief."" </i>Kezia Levitas&nbsp;</p>
+",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,29.7 x 42 cm,,,F0007,0,shopify,5,deny,manual,60.00,,true,true,,,,false,,,,,,,,,,,,,,,,,oz
+business-as-usual-iii-by-onndre-roach-michelle-stannard,Business As Usual III by Onndre Roach & Michelle Stannard,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.</p>
+<p dir=""ltr""> </p>
+<p dir=""ltr""><i>“During this process we have been working on a professional level, and I feel like I have made new friends. To work with these guys is truly something amazing and I am privileged to work as a huge team of skilled people.” </i>Ondre Roach</p>
+<i> </i>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,29.7 x 42 cm,,,F0006,0,shopify,5,deny,manual,50.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/ONDRE_MICHELLE-FREEDOM5.jpg?v=1352897400,,false,,,,,,,,,,,,,,,,,oz
+business-as-usual-iii-by-onndre-roach-michelle-stannard,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/ONDRE_MICHELLE-FREEDOM6.jpg?v=1352897429,,,,,,,,,,,,,,,,,,,
+business-as-usual-ii-by-onndre-roach-michelle-stannard,Business As Usual II by Onndre Roach & Michelle Stannard,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.</p>
+<p dir=""ltr""> </p>
+<p dir=""ltr""><i>“During this process we have been working on a professional level, and I feel like I have made new friends. To work with these guys is truly something amazing and I am privileged to work as a huge team of skilled people.” </i>Ondre Roach</p>
+<div><span><br> </span></div>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,29.7 x 42 cm,,,F0005,0,shopify,5,deny,manual,50.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/ONDRE_MICHELLE-FREEDOM3.jpg?v=1352897290,,false,,,,,,,,,,,,,,,,,oz
+business-as-usual-ii-by-onndre-roach-michelle-stannard,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/ONDRE_MICHELLE-FREEDOM4.jpg?v=1352897326,,,,,,,,,,,,,,,,,,,
+business-as-usual-i-by-onndre-roach-michelle-stannard,Business As Usual I by Ondre Roach,"<p>Exhibited in the Art Against Knives exhibition Freedom in May 2012.</p>
+<p dir=""ltr""> </p>
+<p dir=""ltr""><i>“During this process we have been working on a professional level, and I feel like I have made new friends. To work with these guys is truly something amazing and I am privileged to work as a huge team of skilled people.</i>” Ondre Roach</p>
+<div><span><br> </span></div>",Art Against Knives Gallery,Photograph,"",false,Title,Default Title,Size,29.7 x 42 cm,,,F0004,0,shopify,5,deny,manual,50.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/ONDRE_MICHELLE-FREEDOM1.jpg?v=1352897089,,false,,,,,,,,,,,,,,,,,oz
+business-as-usual-i-by-onndre-roach-michelle-stannard,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/ONDRE_MICHELLE-FREEDOM2.jpg?v=1352897116,,,,,,,,,,,,,,,,,,,
+hot-dog-by-hattie-stewart-1,Hot Dog by Hattie Stewart,"",Art Against Knives Gallery,Painting,"",false,Title,Default Title,,,,,B0001,0,shopify,0,deny,manual,45.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Untitled-1.png?v=1352742802,,false,,,,,,,,,,,,,,,,,oz
+hot-dog-by-hattie-stewart,Happy Faces by Hattie Stewart,"",Art Against Knives Gallery,Painting,"",false,Title,Default Title,,,,,B0002,0,shopify,0,deny,manual,45.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Untitled-3.png?v=1352821298,,false,,,,,,,,,,,,,,,,,oz
+whitstable-shells-by-jeremy-sanche,Whitstable Shells by Jeremy Sanche,"",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,D0142,0,shopify,1,deny,manual,75.00,100.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/img-Y12134918-0001.png?v=1352741595,,false,,,,,,,,,,,,,,,,,oz
+whitstable-pebbles-by-jeremy-sanche,Whitstable Pebbles by Jeremy Sanche,"",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,D0142,0,shopify,1,deny,manual,75.00,100.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/img-Y12134832-0001.png?v=1352736887,,false,,,,,,,,,,,,,,,,,oz
+pug-by-christopher-kane,Pug by Christopher Kane,"",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,"",0,shopify,1,deny,manual,0.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/img-Y12141924-0001.jpg?v=1352735651,,false,,,,,,,,,,,,,,,,,oz
+pug-by-christopher-kane,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/img-Y12141924-0001.jpg?v=1352735261,,,,,,,,,,,,,,,,,,,
+gaga-monster-by-gary-russel,Gaga Monster by Gary Russel,"",Art Against Knives Gallery,Collage,"",false,Title,Default Title,,,,,B0006,0,shopify,1,deny,manual,40.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/img-Y12140400-0001.jpg?v=1352738930,,false,,,,,,,,,,,,,,,,,oz
+gaga-monster-by-gary-russel,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/img-Y12140400-0001.jpg?v=1352738873,,,,,,,,,,,,,,,,,,,
+untitled-by-jessica-nina-mellow,Untitled by Jessica Nina Mellow,"",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,B0005,0,shopify,1,deny,manual,45.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Untitled_B0005.jpg?v=1352731871,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-jessica-nina-mellow,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Untitled_B6.jpg?v=1352731918,,,,,,,,,,,,,,,,,,,
+untitled-by-victoria-brown,Untitled by Victoria Brown,"",Art Against Knives Gallery,Print,"",true,Title,Default Title,,,,,D0139,0,shopify,1,deny,manual,50.00,120.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/d0138_victoria_brown.png?v=1352726320,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-victoria-brown,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/D0138-Victoria-Brown.png?v=1352726583,,,,,,,,,,,,,,,,,,,
+lavender-soap-by-tracey-emin,Lavender Soap by Tracey Emin,"<p>Limited edition engraved soap with original artwork packaging for Art Against Knives as part of the Liberty ‘National Treasures’ limited edition collection.</p>
+",Liberty London,Collaboration,"",true,Title,Default Title,,,,,J0001,0,shopify,0,deny,manual,10.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/soapfinal.png?v=1352486068,,false,,,,,,,,,,,,,,,,,oz
+lavender-soap-by-tracey-emin,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Picture-8-500x471.png?v=1352481101,,,,,,,,,,,,,,,,,,,
+lavender-soap-by-tracey-emin,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/TRACEY_EMIN-1.jpg?v=1352481603,,,,,,,,,,,,,,,,,,,
+redemption-by-andrew-frazer,Redemption by Andrew Frazer,<p>A pen and ink drawing. Dimensions 21 x 29.7 cm. Made especially for Art Against Knives.  </p>,Art Against Knives Gallery,Drawing,"",false,Title,Default Title,,,,,D0140,0,shopify,0,deny,manual,95.00,150.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/D0140_Andrew_Frazer.jpg?v=1351785590,,false,,,,,,,,,,,,,,,,,oz
+redemption-by-andrew-frazer,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/D0140_Andrew_Frazer_1.jpg?v=1351785755,,,,,,,,,,,,,,,,,,,
+lovebox-t-shirt-by-omar-kashoura,T-Shirt by Omar Kashoura,"<p>A men's t-shirt designed specifically by Omar Kashoura for Art Against Knives. This t-shirt is available in small, medium, large and extra large sizes. </p>",TMC,T-Shirt,"",false,Size,Small,Gender,Men's,,,J0141,0,shopify,7,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT2_EDIT_DETAIL.jpg?v=1351784600,,false,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-omar-kashoura,,,,,,,,Medium,,Men's,,,J0148,0,shopify,7,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT2_EDIT.jpg?v=1351784686,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-omar-kashoura,,,,,,,,Large,,Men's,,,J0155,0,shopify,9,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-omar-kashoura,,,,,,,,Extra Large,,Men's,,,J0166,0,shopify,5,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-richard-borges,T-Shirt by Richard Borges,"<p>This t-shirt was designed by Richard Borges for Art Against Knives. It is available for women in small, medium and large sizes; and men in medium, large and extra large sizes.  </p>",TMC,T-Shirt,"",false,Size,Small,Gender,Women's,,,J0105,0,shopify,7,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT1_EDIT_DETAIL.jpg?v=1351784188,,false,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-richard-borges,,,,,,,,Medium,,Women's,,,J0112,0,shopify,4,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT1_EDIT.jpg?v=1351784251,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-richard-borges,,,,,,,,Large,,Women's,,,J0116,0,shopify,9,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-richard-borges,,,,,,,,Medium,,Men's,,,J0125,0,shopify,5,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-richard-borges,,,,,,,,Large,,Men's,,,J0132,0,shopify,3,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-richard-borges,,,,,,,,Extra Large,,Men's,,,J0136,0,shopify,5,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-lou-dalton,T-Shirt by Lou Dalton,"<p>This t-shirt was designed by fashion designer Lou Dalton specifically for Art Against Knives. It is available for women in small, medium and large sizes; and men in small, medium, large and extra large.  </p>",TMC,T-Shirt,"",true,Size,Small,Gender,Men's,,,J0076,0,shopify,0,deny,manual,20.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT3_EDIT_DETAIL.jpg?v=1351784043,,false,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-lou-dalton,,,,,,,,Medium,,Men's,,,J0085,0,shopify,4,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT3_EDIT.jpg?v=1351784102,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-lou-dalton,,,,,,,,Large,,Men's,,,J0092,0,shopify,2,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-lou-dalton,,,,,,,,Extra Large,,Men's,,,J0100,0,shopify,0,deny,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-basso-brooke,T-Shirt by Basso & Brooke,"<p>This ladies t-shirt was designed by Basso and Brooke specifically for Art Against Knives. It is available in small, medium and large sizes. </p>",TMC,T-Shirt,"",false,Size,Small,Gender,Women's,,,"",0,shopify,8,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT4_EDIT_DETAIL.jpg?v=1351783011,,false,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-basso-brooke,,,,,,,,Medium,,Women's,,,"",0,shopify,9,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/T_SHIRT4_EDIT.jpg?v=1351783097,,,,,,,,,,,,,,,,,,,oz
+lovebox-t-shirt-by-basso-brooke,,,,,,,,Large,,Women's,,,"",0,shopify,8,continue,manual,20.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+made-in-london-by-gardio-studiage,Made in London by Gardio Studiage,"<p>A two colour screen print. Dimensions 52 x 72 cm. An edition size of /8, numbered and signed by the artist.  </p>
+<p>This Item is framed (Postage will be more) Please drop us a line for more details: hello@artagainstknives.com </p>
+<style type=""text/css""><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>",Art Against Knives Gallery,Print,"",true,Title,Default Title,,,,,D0146,0,shopify,0,deny,manual,200.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/made_in_london.jpg?v=1351787932,,false,,,,,,,,,,,,,,,,,oz
+made-in-london-by-gardio-studiage,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/made_in_london_1.jpg?v=1351787986,,,,,,,,,,,,,,,,,,,
+life-flow-by-kayode-thomas-1,Life Flow by Kayode Thomas,"<p>A one colour screen print. Dimensions 21 x 29.7. Edition size of /5, numbered and signed by the artist. <br>
+</p>
+<p><img src=""//cdn.shopify.com/s/files/1/0190/2782/files/roselogo_compact.png?1807""> </p>
+",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,H0001,0,shopify,2,deny,manual,20.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/KAYODETHOMAS_H0001_-_H0003_EDIT.jpg?v=1351777583,,false,,,,,,,,,,,,,,,,,oz
+life-flow-by-kayode-thomas-1,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/KAYODETHOMAS_H0001_-_H0003_EDIT_1.jpg?v=1351777635,,,,,,,,,,,,,,,,,,,
+make-life-simple-by-peter-mcgabe,Make Life Simple by Peter McCabe,"<p>A digital print. Dimensions 42 x 59.4 cm. Created especially for Art Against Knives.  </p>
+<p><span style=""text-decoration: underline;"">This piece reads:<br> </span><span>Buy less sh*t you don't need. Give away what you don't use. Recycle. Live within your means. Don't let social networks rule your life - they make big bucks while you chatter. Admit it when you are wrong. Say sorry and mean it. Don't lie. Think before opening your wallet; or mouth or heart - but never close any of them completely. Say ""YES"" more often. But ""NO"" when you have to draw the line. Throw away your TV and think. Read. Write. Draw. Play. Imagine. Let judges be judged. Avoid drama queens. Go running - or maybe just walk a bit more. Take the odd risk. Have business meetings standing up - they're quicker and more productive. Always be early. Be a master, not a jack. </span>Work with great people... like Art Against Knives. </p>",Art Against Knives Gallery,Print,"",true,Title,UNFRAMED PRINT,,,,,C0002,0,shopify,3,deny,manual,100.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/make_life_simple_poster.png?v=1440774151,,false,,,,,,,,,,,,,,,,,oz
+make-life-simple-by-peter-mcgabe,,,,,,,,FRAMED PRINT,,,,,"",0,shopify,0,deny,manual,180.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+life-flow-by-kayode-thomas,Untitled by Kayode Thomas,"<p>A three colour screen print. Dimensions 29.7 x 42 cm. Edition size of /2.  </p>
+<p><img src=""//cdn.shopify.com/s/files/1/0190/2782/files/roselogo_compact.png?1805"" alt=""""> </p>",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,H0001,0,shopify,1,deny,manual,50.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/1_Kayode_Thomas_H0010.jpg?v=1351775989,,false,,,,,,,,,,,,,,,,,oz
+life-flow-by-kayode-thomas,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/1_Kayode_Thomas_H11.jpg?v=1351776007,,,,,,,,,,,,,,,,,,,
+pack-of-25-of-postcards,Pack of 25 of Postcards,"<p>We have put together a selection of 25 postcards all donated by students graduating in MA Photography from LCC. &nbsp;</p>
+",MA Photography London College of Communication,Print,"",true,Title,Default Title,,,,,K0001,0,shopify,26,deny,manual,5.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3098_EDIT.jpg?v=1351772703,,false,,,,,,,,,,,,,,,,,oz
+pack-of-25-of-postcards,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3080_EDIT.jpg?v=1351773020,,,,,,,,,,,,,,,,,,,
+pack-of-25-of-postcards,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3086_EDIT.jpg?v=1351773048,,,,,,,,,,,,,,,,,,,
+pack-of-25-of-postcards,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3087_EDIT.jpg?v=1351773066,,,,,,,,,,,,,,,,,,,
+pack-of-25-of-postcards,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3090_EDIT.jpg?v=1351773082,,,,,,,,,,,,,,,,,,,
+pack-of-25-of-postcards,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/IMG_3092_EDIT.jpg?v=1351773103,,,,,,,,,,,,,,,,,,,
+can-you-cook-by-harriet-alana-shepherd,Can You Cook by Harriet Alana Shepherd,"<p>A three colour screen print. Dimensions 28.8 x 38.8 cm. Edition size of /12, numbered and signed by the artist. </p>",Art Against Knives Gallery,Print,"",false,Title,Default Title,Size,28.8 x 38.8 cm,,,D0132,0,shopify,2,deny,manual,20.00,30.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Can_You_Cook_D0133.jpg?v=1351785031,,false,,,,,,,,,,,,,,,,,oz
+can-you-cook-by-harriet-alana-shepherd,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Can_You_Cook_D134.jpg?v=1351785051,,,,,,,,,,,,,,,,,,,
+rasta-brash-by-harriet-alana-shepherd,Rasta Brash by Harriet Alana Shepherd,<p>A three colour screen print on grey paper. Dimensions 29.7 x 41.2 cm. Edition size of /10.  </p>,Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,D0128,0,shopify,1,deny,manual,15.00,20.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/HARRIETALANASHEPHERD_-_D0128EDIT.jpg?v=1351771958,,false,,,,,,,,,,,,,,,,,oz
+rasta-brash-by-harriet-alana-shepherd,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/HARRIETALANASHEPHERD_-_D0128EDIT_1.jpg?v=1351771988,,,,,,,,,,,,,,,,,,,
+wolf,Wolf,"<p>A one colour screen print. Dimensions 29.7 x 42 cm. An edition of /8, numbered and signed by the artist. This was printed by a young person in an Art Against Knives workshop. </p>
+<p><img src=""//cdn.shopify.com/s/files/1/0190/2782/files/roselogo_compact.png?1805"" alt=""""> </p>",BD Network,Print,"",true,Size,42 x 29.7 cm,,,,,D0090,0,shopify,1,deny,manual,40.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-1.jpg?v=1351718918,,false,,,,,,,,,,,,,,,,,oz
+wolf,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-505150.jpg?v=1351718966,,,,,,,,,,,,,,,,,,,
+nas-by-harriet-alana-shepherd,NAS by Harriet Alana Shepherd,"<p>A two colour screen print. Dimensions 35 x 50.2 cm. Edition size of /12, numbered and signed by the artist. </p>
+",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,D0124,0,shopify,0,deny,manual,20.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/harrietalanashepherd___d0124___d0125edit.jpg?v=1351716039,,false,,,,,,,,,,,,,,,,,oz
+nas-by-harriet-alana-shepherd,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/HARRIETALANASHEPHERD_-_D0124_-_D0125EDIT.jpg?v=1351716527,,,,,,,,,,,,,,,,,,,
+bear,Bear,"<p>A one colour screen print. Dimensions 29.7 x 42 cm. Edition of /8, numbered and signed by the artist. This was printed by a young person in an Art Against Knives workshop. </p>
+<p style=""text-align: left;""><img src=""//cdn.shopify.com/s/files/1/0190/2782/files/YoungPersonStampStraight2_medium.png?1939"" alt=""""></p>",BD Network,Print,"",true,Size,42 x 29.7 cm,,,,,D0083,0,shopify,1,deny,manual,25.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_3.jpg?v=1351715178,,false,,,,,,,,,,,,,,,,,oz
+close-to-home-by-finn-obrian,Close to Home by Finn O'Brien,"<p>A two colour screen print. Dimensions 29.7 x 42 cm. Edition size of /20, numbered and signed by the artist. </p>",Art Against Knives Gallery,Print,"",true,Size,29.7 x 42 cm,,,,,D0112,0,shopify,6,deny,manual,65.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/FINNOBRIEN_-_D0112_-_D0121EDIT.jpg?v=1351717151,,false,,,,,,,,,,,,,,,,,oz
+close-to-home-by-finn-obrian,,,,,,,,Framed,,,,,"",0,shopify,1,deny,manual,150.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+creatures-of-the-night-owl,Creatures of the Night (Owl),"<p>A one colour screen print. Dimensions 42 x 59.4 cm. Edition size /8, numbered and signed by the artist. </p>",BD Network,Print,"",true,Size,59.4 x 42 cm,,,,,D0087,0,shopify,1,deny,manual,35.00,40.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_21.jpg?v=1351713239,,false,,,,,,,,,,,,,,,,,oz
+creatures-of-the-night-owl,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-21.jpg?v=1351713302,,,,,,,,,,,,,,,,,,,
+salvador-dali,Salvador Dali,"<p>Framed and mounted digital print on canvas. Award winning print designed by leading creative agency Leagas Delaney in support of Art Against Knives activities. Dimensions 44 x 51.5 cm.&nbsp;</p>
+",Leagas Delaney,Print,"",true,Title,Default Title,,,,,C0011,0,shopify,500,deny,manual,250.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/LOGO-AAK_low.jpg?v=1351770501,,false,,,,,,,,,,,,,,,,,oz
+salvador-dali,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/LOGO-AAK_low_1.jpg?v=1351770509,,,,,,,,,,,,,,,,,,,
+me-n-chris-by-jon-costi,Me 'n' Chris by Jon Costi,"<p>A one of a kind mixed media collage on canvas. Dimensions 100 x 100 cm.  <span><i><span> </span></i></span></p>
+<p><span><i><span>“It’s a cliché, but I didn’t see myself living to 24. Without a doubt art turned my life around. I’ve a friend who was released at the same time as me. He’s now doing time for murder. My life is so different — I used to be a criminal and had money, but no future. Now I just have my student loan but all I do is create and support other young people thanks to Art Against Knives.”</span></i><span>  </span><span>John, Volunteer for Art Against Knives  </span><span> </span></span></p>
+<p><span><span>After serving a 4 year prison sentence John took up a place at Chelsea College and became their student of the year. John now runs graffiti workshops for Art Against Knives and is working towards a his Degree at Camberwell College of Art. </span></span></p>",Art Against Knives Gallery,Mixed Media,"",false,Size,100 x 100 cm,,,,,C0004,0,shopify,1,deny,manual,2000.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/JONCOSTI_-_C0004_EDIT.jpg?v=1351777067,,false,,,,,,,,,,,,,,,,,oz
+me-n-chris-by-jon-costi,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/JONCOSTI_-_C0004_EDIT_DETAIL.jpg?v=1351777079,,,,,,,,,,,,,,,,,,,
+batman-by-tom-spicer,Batman by Tom Spicer,<p>Mixed media on wood panel. Dimensions 62.2 x 86.6 cm. </p>,Art Against Knives Gallery,Painting,"",false,Title,Default Title,,,,,C0001,0,shopify,1,deny,manual,1500.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Batman_C0001.jpg?v=1351705466,,false,,,,,,,,,,,,,,,,,oz
+batman-by-tom-spicer,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Batman_C2.jpg?v=1351705551,,,,,,,,,,,,,,,,,,,
+sea-lion,Sea Lion,"<p>A one colour screen print. Dimensions 29.7 x 42 cm. An edition size of /8, numbered and signed by the artist. This was printed by a young person in Art Against Knives workshop </p>
+<p><img src=""//cdn.shopify.com/s/files/1/0190/2782/files/roselogo_compact.png?1805"" alt=""""> </p>",BD Network,Print,"",true,Size,42 x 29.7 cm - FRAMED,,,,,D0067,0,shopify,1,deny,manual,35.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-2.jpg?v=1440774377,,false,,,,,,,,,,,,,,,,,oz
+owl,Owl,"<p>A one colour screen print. Dimensions 29.7 x 42 cm. Edition size of /10, numbered and signed by the artist. </p>",BD Network,Print,"",true,Size,42 x 29.7 cm,,,,,D0062,0,shopify,1,deny,manual,30.00,40.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-14.jpg?v=1351698062,,false,,,,,,,,,,,,,,,,,oz
+owl,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-15.jpg?v=1351697757,,,,,,,,,,,,,,,,,,,
+flea-in-heaven,Flea in Heaven,"<p>A two colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist. </p>",BD Network,Print,"",true,Size,42 x 29.7 cm,,,,,D0058,0,shopify,4,deny,manual,30.00,45.00,false,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-25.jpg?v=1351697130,,false,,,,,,,,,,,,,,,,,oz
+flea-in-heaven,,,,,,,,Framed,,,,,"",0,shopify,1,deny,manual,60.00,45.00,false,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-24.jpg?v=1351697036,,,,,,,,,,,,,,,,,,,oz
+two-little-ducks,Two Little Ducks,"<p>A two colour screen print. Dimensions 29.7 x 42 cm. An edition size of /8, numbered and signed by the artist. </p>",BD Network,Print,"",true,Size,42 x 29.7 cm,,,,,D0052,0,shopify,3,deny,manual,30.00,45.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-23.jpg?v=1351697286,,false,,,,,,,,,,,,,,,,,oz
+two-little-ducks,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-26.jpg?v=1351697173,,,,,,,,,,,,,,,,,,,
+waterland-by-francesca-landi,Waterland by Francesca Landi,<p>A digital print. Dimensions 30 x 30 cm. Edition size of /2. </p>,Art Against Knives Gallery,Print,"",false,Size,30 x 30 cm,,,,,A0033,0,shopify,0,deny,manual,35.00,50.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/WATERLAND_EDIT.jpg?v=1351775625,,false,,,,,,,,,,,,,,,,,oz
+fuck-off-by-dark,Fuck Off by Dark,<p>A one colour silkscreen print. Dimensions 30 x 30cm. Edition size of /8. </p>,Art Against Knives Gallery,Print,"",false,Size,30 x 30 cm,,,,,A0031,0,shopify,1,deny,manual,25.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/dark.jpg?v=1351770940,,false,,,,,,,,,,,,,,,,,oz
+london-2012-by-henry-kingston,London 2012 by Henry Kingston,"<p>A digital print. Dimensions 23.5 x 30 cm.  </p>
+<p>This Item is Framed (postage will be more) Please contact us for more details : hello@artagainstknives.com</p>
+<style type=""text/css""><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>",Art Against Knives Gallery,Print,"",false,Title,Default Title,,,,,A0030,0,shopify,0,deny,manual,75.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/London_2012_A0030.jpg?v=1351684985,,false,,,,,,,,,,,,,,,,,oz
+london-2012-by-henry-kingston,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/London_2012_A31.jpg?v=1351685015,,,,,,,,,,,,,,,,,,,
+approach-by-vasilisia-forbes,Approach by Vasilisia Forbes,<p>A two colour silkscreen print. Dimensions 30 x 30 cm. Edition size of /10.  </p>,Art Against Knives Gallery,Print,"",false,Size,30 x 30 cm,,,,,A0029,0,shopify,0,deny,manual,25.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/A0029_Vasilisia_Forbes.jpg?v=1351710213,,false,,,,,,,,,,,,,,,,,oz
+hive-phase-by-kyle-zeto,Hive Phase by Kyle Zeto,<p>A digital print. Dimensions  30 x 30cm. Edition size of /11</p>,Art Against Knives Gallery,Print,"",false,Title,Default Title,Size,30 x 30 cm,,,A0026,0,shopify,1,deny,manual,25.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/A0025_A0026_Kyle_Zeto_small.jpg?v=1351712169,,false,,,,,,,,,,,,,,,,,oz
+le-jour-by-helena-mueller,Le Jour by Helena Mueller,"<div>A digital print. Dimensions 30 x 30 cm. Edition size of /6.</div>
+<div><br />
+</div>
+&nbsp;
+",Art Against Knives Gallery,Print,"",true,Size,30 x 30 cm,,,,,A0015,0,shopify,4,deny,manual,20.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/A0015_A0019_Helena_Mueller_small.jpg?v=1351712926,,false,,,,,,,,,,,,,,,,,oz
+eagle-by-grace-taylor,Eagle by Grace Taylor,<p>A digital print. Dimensions 23.6cm x 30cm. Edition size of /11. </p>,Art Against Knives Gallery,Print,"",false,Size,30 x 23.6 cm,,,,,A0032,0,shopify,5,deny,manual,25.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/A0032_A0009_-_A0014_Grace_Taylor_small.jpg?v=1351687247,,false,,,,,,,,,,,,,,,,,oz
+translation-francesca-woodman-by-chloe-newman,Translation: Francesca Woodman by Chloe Newman,<p>A silkscreen print. Dimensions 30 x 30 cm. An edition size of /10.  </p>,Art Against Knives Gallery,Print,"",true,Size,30 x 30 cm,,,,,A0006,0,shopify,2,deny,manual,25.00,25.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/A0006_-_A0009_Chloe_Newman_small.jpg?v=1351703075,,false,,,,,,,,,,,,,,,,,oz
+manimal-by-christopher-duncan,Manimal by Christopher Duncan,<p>A digital film still. Dimensions 30 x 30 cm.  </p>,Art Against Knives Gallery,Film Still,"",false,Size,30 x 30 cm,,,,,A0004,0,shopify,1,deny,manual,60.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/A0004_Christopher_Duncan.jpg?v=1351702791,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-charlotte-goodman,Untitled by Charlotte Goodman,<p><span>A mixed-media collage. Dimensions 30 x 30 cm. </span></p>,Art Against Knives Gallery,Collage,"",false,Size,30 x 30 cm,,,,,A0001,0,shopify,1,deny,manual,80.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/A0001_Charlotte_Goodman_small.jpg?v=1351703740,,false,,,,,,,,,,,,,,,,,oz
+reign-in-blood-by-greg-eason,Reign in Blood by Greg Eason,"<p>A giclee print. Dimensions 42 x 59.2cm. Edition size of /50, numbered and signed by the artist. </p>",The Contemporary London,Print,"",true,Title,Default Title,,,,,G0012,0,shopify,2,deny,manual,150.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Reign-in-Blood-web.jpg?v=1351770369,,false,,,,,,,,,,,,,,,,,oz
+reign-in-blood-by-greg-eason,,,,,,,,FRAMED,,,,,"",0,shopify,2,deny,manual,250.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Reign-in-Blood-web_1.jpg?v=1351770376,,,,,,,,,,,,,,,,,,,oz
+diamond-mountain-goat-by-greg-eason,Diamond Mountain Goat by Greg Eason,<p>Pencil on paper. Dimensions 48.7 x 59 cm. This work is framed. </p>,The Contemporary London,Drawing,"",true,Title,Default Title,,,,,G0001,0,shopify,1,deny,manual,500.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Diamond-Mountain-Goats-web.jpg?v=1351770303,,false,,,,,,,,,,,,,,,,,oz
+diamond-mountain-goat-by-greg-eason,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Diamond-Mountain-Goats-web_1.jpg?v=1351770316,,,,,,,,,,,,,,,,,,,
+untitled-by-wilkinson-brown,Untitled by Jack Wilkinson,"<p>Oil on wood board. Dimensions 129 x 189 cm. </p>
+",Art Against Knives Gallery,Painting,"",false,Title,Default Title,,,,,C0012,0,shopify,0,deny,manual,500.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/JACKWILKINSON_-_C0012_EDIT.jpg?v=1351781922,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-wilkinson-brown,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/JACKWILKINSON_-_C0012_EDIT_1.jpg?v=1351781959,,,,,,,,,,,,,,,,,,,
+untitled-by-wilkinson-brown,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/JACKWILKINSON_-_C0012_EDIT_DETAIL.jpg?v=1351781974,,,,,,,,,,,,,,,,,,,
+limited-edition-boxset-by-various,The Contemporary London Editions Box Set,"<p>5 x giclee prints. Dimensions 21 x 29.7 cm. Edition size of /100. </p>
+<p>This beautiful box set includes works from emerging artists: Greg Eason, Sandra Erbacher, Fran Giffard, Mercedes Baliarda and Jess Littlewood. Each print is numbered and signed by the artist and the whole set accompanied by a certificate of authenticity. </p>",The Contemporary London,Print,"",true,Size,0.5 x 30 x 21 cm,,,,,G0017,0,shopify,10,deny,manual,140.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Contemporary_London_Box_Cover.jpg?v=1351773621,,false,,,,,,,,,,,,,,,,,oz
+limited-edition-boxset-by-various,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Contemporary_London_Limited_Edition_Box_Set_-_1_Fran_Gaffard.jpg?v=1351773673,,,,,,,,,,,,,,,,,,,
+limited-edition-boxset-by-various,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Contemporary_London_Limited_Edition_Box_Set_-_3_Jess_Littlewod.jpg?v=1351773765,,,,,,,,,,,,,,,,,,,
+limited-edition-boxset-by-various,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Contemporary_London_Limited_Edition_Box_Set_-_4_Mercedes_Baliarda.jpg?v=1351773805,,,,,,,,,,,,,,,,,,,
+limited-edition-boxset-by-various,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Contemporary_London_Limited_Edition_Box_Set_-_2_Greg_Easton.jpg?v=1351774619,,,,,,,,,,,,,,,,,,,
+limited-edition-boxset-by-various,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Contemporary_London_Limited_Edition_Box_Set_-_5_Sandra_Erbacher.jpg?v=1351774843,,,,,,,,,,,,,,,,,,,
+angel-by-greg-eason-1,Angel by Greg Eason,"<p>A giclee print. Dimensions 42 x 59.2 cm. Edition size of /50, numbered and signed by the artist.  </p>",The Contemporary London,Print,"Angel, Greg Eason",false,Size,42 x 59.2 cm,,,,,G0004,0,shopify,4,deny,manual,150.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Angel-web.jpg?v=1351770254,,false,,,,,,,,,,,,,,,,,oz
+angel-by-greg-eason-1,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Angel-web_1.jpg?v=1351770260,,,,,,,,,,,,,,,,,,,
+birds-by-ute-panella,Birds by Ute Panella,"<p><span>Oil paint on wood panel. Dimension 30 x 30 cm. </span></p>
+<p><span><br>
+</span></p>
+",Art Against Knives Gallery,Painting,"",false,Size,30 x 30 cm,,,,,A0003,0,shopify,1,deny,manual,70.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/A0003_Ute_Panella_small.jpg?v=1351686582,,false,,,,,,,,,,,,,,,,,oz
+as-the-crow-flies-by-dolly-demoratti,As the Crow Flies Print Poster by Dolly Demoratti,"<p>A two colour screen print. Two different colour ways: orange and mint. Dimensions 50 x 70 cm. Each colour way is an edition of /10, numbered and signed by the artist. </p>",Mother Drucker,Print,"",false,Size,50 x 70 cm,Color,Orange,,,ENDC0049,0,shopify,0,deny,manual,35.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/md1.jpg?v=1351612615,,false,,,,,,,,,,,,,,,,,oz
+as-the-crow-flies-by-dolly-demoratti,,,,,,,,50 x 70 cm,,Mint,,,"",0,shopify,0,deny,manual,35.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/md2.jpg?v=1351612829,,,,,,,,,,,,,,,,,,,oz
+as-the-crow-flies-by-dolly-demoratti,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/md3.jpg?v=1351706578,,,,,,,,,,,,,,,,,,,
+lots-of-different-cups-by-gary-russell,Lots of Different Cups by Gary Russell,<p>Paper collage. Dimensions 24.5 x 33 cm. </p>,Art Against Knives Gallery,Collage,"",false,Size,33 x 24.5 cm,,,,,B0009,0,shopify,1,deny,manual,40.00,100.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Lots_of_Different_Cups_B0009.jpg?v=1351607740,,false,,,,,,,,,,,,,,,,,oz
+lots-of-different-cups-by-gary-russell,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Lots_of_Different_Cups_B10.jpg?v=1351607511,,,,,,,,,,,,,,,,,,,
+untitled-by-lucia-pizzani,Untitled by Lucia Pizzani,"<p>Photography. Dimensions 40 x 50 cm. This piece is framed. &nbsp;</p>
+",Art Against Knives Gallery,Photograph,"",true,Title,Default Title,,,,,B0007,0,shopify,0,deny,manual,65.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/untitled_b7.jpg?v=1351607233,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-lucia-pizzani,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/untitled_b8.jpg?v=1351607193,,,,,,,,,,,,,,,,,,,
+single-nipples,Untitled,"<p><span>A two colour screen print. Dimensions 29.7 x 42 cm. An edition size of /8, numbered and signed by the artist.&nbsp;</span></p>
+",BD Network,Print,"",true,Size,42 x 29.7 cm,,,,,D0041,0,shopify,3,deny,manual,35.00,45.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-12.jpg?v=1351525718,,false,,,,,,,,,,,,,,,,,oz
+single-nipples,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-13.jpg?v=1351525699,,,,,,,,,,,,,,,,,,,
+blob-2,Blob,"<p><span>A one colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist. </span></p>",BD Network,Print,"",false,Size,29.7 x 42 cm,Color,Black,,,D0036,0,shopify,1,deny,manual,20.00,30.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-8.jpg?v=1351523776,,false,,,,,,,,,,,,,,,,,oz
+blob-2,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-11.jpg?v=1351523785,,,,,,,,,,,,,,,,,,,
+blob-1,Blob,"<p><span>One colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist. </span></p>",BD Network,Print,"",true,Size,29.7 x 42cm,Color,Black,,,D0030,0,shopify,0,deny,manual,20.00,30.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-6.jpg?v=1351523660,,false,,,,,,,,,,,,,,,,,oz
+blob-1,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-7.jpg?v=1351523629,,,,,,,,,,,,,,,,,,,
+blob,Blob,"<p><span>One colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist. </span></p>",BD Network,Print,"",false,Size,42 x 29.7 cm,Color,Black,,,D0027,0,shopify,1,deny,manual,20.00,30.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-4.jpg?v=1351522639,,false,,,,,,,,,,,,,,,,,oz
+blob,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-5.jpg?v=1351522608,,,,,,,,,,,,,,,,,,,
+monster-1,Monster,"<p><span>A two colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist. </span></p>",BD Network,Print,D0017,false,Size,42 x 29.7 cm,Color,Pink,,,D0017,0,shopify,1,deny,manual,35.00,45.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_18.jpg?v=1351522039,,false,,,,,,,,,,,,,,,,,oz
+monster-1,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_19.jpg?v=1351522011,,,,,,,,,,,,,,,,,,,
+monster,Monster,"<p>A two colour screen print. Dimensions 42 x 29.7 cm. Edition size of /8, numbered and signed by the artist. </p>",BD Network,Print,"",false,Size,42 x 29.7 cm,Color,Purple,,,D0022,0,shopify,0,deny,manual,35.00,45.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-17.jpg?v=1351522358,,false,,,,,,,,,,,,,,,,,oz
+monster,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-18.jpg?v=1351522324,,,,,,,,,,,,,,,,,,,
+creature-2,Creature,"<p><span>A two colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist.</span></p>
+",BD Network,Print,"",true,Size,29.7 x 42 cm,Color,Purple,,,D0011,0,shopify,6,deny,manual,30.00,45.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_12.jpg?v=1351520934,,false,,,,,,,,,,,,,,,,,oz
+creature-2,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_13.jpg?v=1351520863,,,,,,,,,,,,,,,,,,,
+creature-1,Creature,"<p><span>A two colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist.</span><span> </span></p>",BD Network,Print,"",true,Size,29.7 x 42cm,Color,Yellow,,,D0007,0,shopify,3,deny,manual,30.00,45.00,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_10.jpg?v=1351520377,,false,,,,,,,,,,,,,,,,,oz
+creature-1,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/creatures_visual_referenece_11.jpg?v=1351520274,,,,,,,,,,,,,,,,,,,
+creature,Creature,"<p><span><span>A two colour screen print. Dimensions 29.7 x 42 cm. Edition size of /8, numbered and signed by the artist.</span> </span></p>",BD Network,Print,"",true,Size,29.7 x 42 cm,Color,Pink,,,D0001,0,shopify,6,deny,manual,30.00,45.00,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-9.jpg?v=1351520530,,false,,,,,,,,,,,,,,,,,oz
+creature,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Creatures_Visual_Referenece-10.jpg?v=1351520556,,,,,,,,,,,,,,,,,,,
+leopard-by-hannah-parr,Leopard by Hannah Parr,"<p>A striking print, created using three hand-pulled screen printed layers. Each print has been individually worked on with ink as a base colour by the artist. The unique appearance of this print is created by pulling the first screen printed layer with bleach. Dimensions 100 x 136 cm. Edition size of /35, numbered and signed by the artist.  </p>",Mother Drucker,Print,"",true,Size,136 cm x 100 cm,,,,,EMDC0044,0,shopify,1,deny,manual,250.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/HANNAHPARR_LEOPARD.jpg?v=1351514717,,false,,,,,,,,,,,,,,,,,oz
+leopard-by-hannah-parr,,,,,,,,Framed,,,,,"",0,shopify,0,deny,manual,370.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/HANNAHPARR_LEOPARD_1.jpg?v=1351514739,,,,,,,,,,,,,,,,,,,oz
+astronaut-by-victor-ash,Astronaut by Victor Ash,"<p>A one colour screen print produced at large format on bright white 300 gsm paper. The almost photographic result is created with a superfine halftone. Dimensions 82 x 126 cm. Edition size of /90, numbered and signed by the artist. </p>",Mother Drucker,Print,"",true,Size,70 x 100cm,,,,,EMDC0040,0,shopify,0,deny,manual,175.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/VictorAsh_Astronaut.jpg?v=1351275154,,false,,,,,,,,,,,,,,,,,oz
+crisis-solved-by-nomad,Crisis Solved by Nomad,"<p>A two colour print on somerset antique, deckled edge paper. Dimensions 56 x 76 cm. Edition size of /50, numbered and signed by the artist. </p>",Mother Drucker,Print,"",true,FRAMED,UNFRAMED,,,,,"",0,shopify,1,deny,manual,150.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Nomad_CrisisSolved.jpg?v=1351274128,,false,,,,,,,,,,,,,,,,,oz
+crisis-solved-by-nomad,,,,,,,,FRAMED,,,,,"",0,shopify,1,deny,manual,250.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Nomad_CrisisSolved_1.jpg?v=1351274200,,,,,,,,,,,,,,,,,,,oz
+anything-aztec-by-dolly-demoratti,Anything Aztec by Dolly Demoratti,"<p>A six colour silkscreen print using overlapping layers to create an additional three colours. Based on a traditional Aztec pattern design. Dimensions 80 x 120 cm. Edition size of /5, numbered and signed by the artist. </p>",Mother Drucker,Print,"",false,Title,Default Title,,,,,EMDC0032,0,shopify,0,deny,manual,160.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/EMDC0032_-_EMDC0034_Dolly_Demoratti_1024x1024_EDIT.jpg?v=1352120397,,false,,,,,,,,,,,,,,,,,oz
+anything-aztec-by-dolly-demoratti,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/EMDC0032_-_EMDC0034_Dolly_Demoratti_1024x1024_EDIT_2.jpg?v=1352120375,,,,,,,,,,,,,,,,,,,
+wives-by-hannah-parr,Wives by Hannah Parr,"<p>A two colour screen print, using black gloss on black matt. The subtle effect of the two different finishes compliment each other and counterbalance the harshness of the black space. Dimensions 82 x 126 cm. Edition size of /15, numbered and signed by the artist.&nbsp;</p>
+",Mother Drucker,Print,"",true,Color,Black,Size,82 cm x 126 cm,,,EMDC0022,0,shopify,3,deny,manual,165.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Hannah_Parr_Wives_1.jpg?v=1351508659,,false,,,,,,,,,,,,,,,,,oz
+wives-by-hannah-parr,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/Hannah_Parr_Wives.jpg?v=1351508729,,,,,,,,,,,,,,,,,,,
+i-am-a-storyteller-by-elmar-lause,I Am a Storyteller by Elmar Lause,"<p>A 5 colour screen print produced on 300gsm Somerset 'Antique' deckled edge paper. Dimensions 49 x 73.5 cm. Edition size of /35, numbered and signed by artist. </p>",Mother Drucker,Print,"",true,Color,White,Size,49 X 73.5 cm,,,EMDC0018,0,shopify,2,deny,manual,225.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Elmar_lause_Storyteller.jpg?v=1351274635,,false,,,,,,,,,,,,,,,,,oz
+i-am-a-storyteller-by-elmar-lause,,,,,,,,Framed,,A2,,,"",0,shopify,1,deny,manual,300.00,,false,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/Elmar_lause_Storyteller_1.jpg?v=1351274685,,,,,,,,,,,,,,,,,,,oz
+cloud-one-by-penny,Cloud One by Penny,"<p>A twelve colour screen print, on 300gsm paper. The image of an enlarged dollar bill is printed using CMYK screens to produce a full colour image. The 'drip' layer is printed with high gloss ink to give a wet look finish. Available in three colour ways, Black, Gold and White.Dimensions 28.5 x 69 cm. Edition size of /25, numbered and signed by the artist. </p>",Mother Drucker,Print,"",false,Color,Gold,Size,28.5 x 69 cm,,,EMDC0001,0,shopify,1,deny,manual,190.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Penny_CloudOne.jpg?v=1351273307,,false,,,,,,,,,,,,,,,,,oz
+cloud-one-by-penny,,,,,,,,Black,,28.5 x 69 cm,,,EMDC0006,0,shopify,1,deny,manual,190.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/Penny_CloudOne_1.jpg?v=1351273202,,,,,,,,,,,,,,,,,,,oz
+cloud-one-by-penny,,,,,,,,White,,28.5 x 69 cm,,,EMDC0010,0,shopify,1,deny,manual,190.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/CloudOne_Penny_Black__uploaded_image.jpg?v=1351518850,,,,,,,,,,,,,,,,,,,oz
+cloud-one-by-penny,,,,,,,,Black - Framed,,28.5 x 69 cm,,,"",0,shopify,1,deny,manual,250.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/CloudOne_Penny_White__uploaded_image.jpg?v=1351518864,,,,,,,,,,,,,,,,,,,oz
+cloud-one-by-penny,,,,,,,,White - Framed,,28.5 x 69 cm,,,"",0,shopify,1,deny,manual,250.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+cloud-one-by-penny,,,,,,,,Gold- Framed,,28.5 x 69 cm,,,"",0,shopify,1,deny,manual,250.00,,true,true,,,,,,,,,,,,,,,,,,,,,oz
+untitled-by-anton-unai,Untitled by Anton Unai,"<p>A onw colour free hand screen print on recycled paper. Each print has been hand worked by the artist, so colours and application vary.  Dimensions 64 x 94 cm. Edition size of /6, numbered and signed by the artist. </p>",Mother Drucker,Print,"",false,Color,Salmon,Size,64 cm x 94 cm,,,EMD007,0,shopify,1,deny,manual,200.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/ANTON.jpg?v=1351514972,,false,,,,,,,,,,,,,,,,,oz
+untitled-by-anton-unai,,,,,,,,Black,,64 cm x 94 cm,,,EMDC0048,0,shopify,1,deny,manual,200.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/ANTON_1.jpg?v=1351514990,,,,,,,,,,,,,,,,,,,oz
+reigen-mint-by-various-gould,Reigen by Various & Gould,"<div style=""text-align: center;"">A four colour screen print on BLUE or MINT paper. Dimensions 50 x 70 cm. Edition size of /20, numbered and signed by the artist.  </div>
+<div style=""text-align: center;"">This Item is available framed. Please drop us a line for details and to arrange purchase: hello@artagainstknives.com </div>",Mother Drucker,Print,"",true,Color,Mint - Framed,Size,50 cm x 70 cm,,,EMD006,0,shopify,1,deny,manual,170.00,,true,true,"",https://cdn.shopify.com/s/files/1/0190/2782/products/V_G.jpg?v=1440774216,,false,,,,,,,,,,,,,,,,,oz
+reigen-mint-by-various-gould,,,,,,,,Blue,,50 cm x 70 cm,,,EMDC0030,0,shopify,3,deny,manual,135.00,,true,true,,https://cdn.shopify.com/s/files/1/0190/2782/products/384743_278794715502076_130329580348591_838862_1134920462_n.jpeg?v=1440774216,,,,,,,,,,,,,,,,,,,oz
+reigen-mint-by-various-gould,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0190/2782/products/384743_278794715502076_130329580348591_838862_1134920462_n_1.jpeg?v=1440774216,,,,,,,,,,,,,,,,,,,

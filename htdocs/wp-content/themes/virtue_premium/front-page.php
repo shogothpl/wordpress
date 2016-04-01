@@ -90,6 +90,9 @@ $queried_post = get_post($post_id);
 <p><?php echo $queried_post->post_content; ?></p>
 <?php echo $queried_post->post_title; echo $post_id?>
 
+<?php 
+echo do_shortcode( '[ajax_load_more post_type="post" category="news"]' );
+?>
 
 <?php
 

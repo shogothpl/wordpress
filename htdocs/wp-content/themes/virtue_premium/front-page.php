@@ -81,6 +81,22 @@
 		<div id="homeheader" class="welcomeclass">
 			<div class="container">
 				<?php get_template_part('templates/page', 'header'); ?>
+                <?php
+			$postname=	get_post_meta($postid, 'Video_header_page', true);
+$page = get_page_by_title('AAK-Homepage', OBJECT, 'post'); 
+$post_id = $page->ID;
+$queried_post = get_post($post_id);
+?>
+<p><?php echo $queried_post->post_content; ?></p>
+<?php echo $queried_post->post_title; echo $post_id?>
+
+
+<?php
+
+
+the_field('VIDEO-HEADER_description', $post_id);
+?>
+
 			</div>
 		</div><!--titleclass-->
 	<?php } ?>

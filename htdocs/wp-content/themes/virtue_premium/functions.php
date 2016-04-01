@@ -2,6 +2,7 @@
 define( 'OPTIONS_SLUG', 'virtue_premium' );
 define( 'LANGUAGE_SLUG', 'virtue' );
 load_theme_textdomain('virtue', get_template_directory() . '/languages');
+
 /*
  * Init Theme Options
  */

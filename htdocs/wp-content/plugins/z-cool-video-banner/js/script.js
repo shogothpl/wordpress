@@ -5,7 +5,8 @@
 //    More info on http://zerosixthree.se/create-a-responsive-header-video-with-graceful-degradation/
 //  * -----------------------------------------------------------------------------
 //  */
-$(document).ready(function() {
+window.onload = function(){
+jQuery(document).ready(function($) {
     $('.header-video').each(function(i, elem) {
         headerVideo = new HeaderVideo({
           element: elem,
@@ -15,7 +16,7 @@ $(document).ready(function() {
         });
     });
   });
-'use strict';
+}
 
 var HeaderVideo = function(settings) {
     if (settings.element.length === 0) {
@@ -25,11 +26,11 @@ var HeaderVideo = function(settings) {
 };
 
 HeaderVideo.prototype.init = function(settings) {
-    this.$element = $(settings.element);
+    this.$element = jQuery(settings.element);
     this.settings = settings;
     this.videoDetails = this.getVideoDetails();
 
-    $(this.settings.closeTrigger).hide();
+    jQuery(this.settings.closeTrigger).hide();
     this.setFluidContainer();
     this.bindUIActions();
 
@@ -40,11 +41,11 @@ HeaderVideo.prototype.init = function(settings) {
 
 HeaderVideo.prototype.bindUIActions = function() {
     var that = this;
-    $(this.settings.playTrigger).on('click', function(e) {
+    jQuery(this.settings.playTrigger).on('click', function(e) {
         e.preventDefault();
         that.appendIframe();
     });
-    $(this.settings.closeTrigger).on('click', function(e){
+    jQuery(this.settings.closeTrigger).on('click', function(e){
         e.preventDefault();
         that.removeIframe();
     });
@@ -60,10 +61,10 @@ HeaderVideo.prototype.appendIframe = function() {
 };
 
 HeaderVideo.prototype.removeIframe = function() {
-    $(this.settings.playTrigger).fadeIn();
-    $(this.settings.closeTrigger).fadeOut();
-	$('.header-video h2').fadeIn();
-	$('.header-video p').fadeIn();
+    jQuery(this.settings.playTrigger).fadeIn();
+    jQuery(this.settings.closeTrigger).fadeOut();
+	jQuery('.header-video h2').fadeIn();
+	jQuery('.header-video p').fadeIn();
     this.$element.find('#header-video__video-element').remove();
 };
 
@@ -77,9 +78,9 @@ HeaderVideo.prototype.setFluidContainer = function() {
     var element = this.$element;
     element.data('aspectRatio', this.videoDetails.videoHeight / this.videoDetails.videoWidth);
 
-    $(window).resize(function() {
-        var windowWidth = $(window).width();
-        var windowHeight = $(window).height();
+    jQuery(window).resize(function() {
+        var windowWidth = jQuery(window).width();
+        var windowHeight = jQuery(window).height();
 
         element.width(Math.ceil(windowWidth));
         element.height(Math.ceil(windowWidth * element.data('aspectRatio'))); //Set the videos aspect ratio, see https://css-tricks.com/fluid-width-youtube-videos/
@@ -92,7 +93,7 @@ HeaderVideo.prototype.setFluidContainer = function() {
 };
 
 HeaderVideo.prototype.getVideoDetails = function() {
-    var mediaElement = $(this.settings.media);
+    var mediaElement = jQuery(this.settings.media);
 
     return {
         videoURL: mediaElement.attr('data-video-URL'),

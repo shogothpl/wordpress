@@ -99,9 +99,13 @@ echo do_shortcode( '[ajax_load_more post_type="post" category="news"]' );
 ?>
 
 <?php
-
-
+the_field('VIDEO-HEADER_title', $post_id);
 the_field('VIDEO-HEADER_description', $post_id);
+$customtitle=get_field('VIDEO-HEADER_title', $post_id);
+$customdescription=get_field('VIDEO-HEADER_description', $post_id);
+
+//echo $customtitle.$customdescription;
+generate_banner($customtitle,$customdescription,'','','');
 ?>
 
 			</div>

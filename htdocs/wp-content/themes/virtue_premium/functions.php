@@ -92,3 +92,15 @@ function kad_sidebar_on_special_page($sidebar) {
   }
   return $sidebar;
 } 
+/* additional shortcodes */
+// [bartag foo="foo-value"]
+function custom_post_dis_func( $atts ) {
+    $a = shortcode_atts( array(
+        'insert_post' => 'default',
+    ), $atts );
+//get ID 
+//find custom post tile ID
+//display content
+    return "foo = {$a['foo']}";
+}
+add_shortcode( 'custom_post_display', 'custom_post_dis_func' );

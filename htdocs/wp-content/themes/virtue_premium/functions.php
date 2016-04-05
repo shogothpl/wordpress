@@ -82,7 +82,7 @@ function virtue_shortcode_init() {
 	if(is_admin()){ if(kad_is_edit_page()){require_once locate_template('/lib/kad_shortcodes.php');	}}
 }
 add_action('init', 'virtue_shortcode_init');
-
+//remove kad_sidebar on custom post type 
 add_filter('kadence_display_sidebar', 'kad_sidebar_on_special_page');
 
 function kad_sidebar_on_special_page($sidebar) {

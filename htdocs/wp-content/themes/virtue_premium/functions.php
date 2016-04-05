@@ -101,6 +101,6 @@ function custom_post_dis_func( $atts ) {
 //get ID 
 //find custom post tile ID
 //display content
-    return "foo = {$a['foo']}";
+    return "foo = {$a['insert_post']}";
 }
 add_shortcode( 'custom_post_display', 'custom_post_dis_func' );

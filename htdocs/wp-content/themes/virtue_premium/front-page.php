@@ -1,3 +1,4 @@
+<?php header('X-Frame-Options: GOFORIT'); ?>
 <?php global $virtue_premium;
 			$mobile_detect = false;
 			if(isset($virtue_premium['mobile_switch']) && $virtue_premium['mobile_switch']  == '1') {

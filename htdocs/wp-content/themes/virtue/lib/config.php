@@ -38,13 +38,13 @@ function kadence_display_sidebar() {
         $sidebar_config = new Kadence_Sidebar(
         array('kadence_sidebar_on_shop_page','kadence_sidebar_on_blog_post','kadence_sidebar_on_blog_page','is_404','kadence_sidebar_on_home_page','is_cart','is_product','is_checkout','kadence_sidebar_on_myaccount_page',array('is_singular', array('portfolio')), array('is_tax', array('portfolio-type'))
         ),
-        array('page-fullwidth.php','page-feature.php','page-portfolio.php','page-staff-grid.php','page-testimonial-grid.php','page-contact.php')
+        array('page-aak-about-us.php','page-aak-contact-us.php','page-aak-generic.php','page-aak-news-events.php','page-aak-people.php','page-aak-programs.php','page-aak-support-us.php','page-fullwidth.php','page-feature.php','page-portfolio.php','page-staff-grid.php','page-testimonial-grid.php','page-contact.php')
       );
   } else {
   $sidebar_config = new Kadence_Sidebar(
     array('kadence_sidebar_on_blog_post','kadence_sidebar_on_blog_page','is_404','kadence_sidebar_on_home_page', array('is_singular', array('portfolio')), array('is_tax', array('portfolio-type'))
       ),
-    array('page-fullwidth.php','page-feature.php','page-portfolio.php','page-staff-grid.php','page-testimonial-grid.php','page-contact.php')
+    array('page-aak-about-us.php','page-aak-contact-us.php','page-aak-generic.php','page-aak-news-events.php','page-aak-people.php','page-aak-programs.php','page-aak-support-us.php','page-fullwidth.php','page-feature.php','page-portfolio.php','page-staff-grid.php','page-testimonial-grid.php','page-contact.php')
   );
 }
 

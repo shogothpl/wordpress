@@ -1,3 +1,4 @@
+
 <?php
 /**
  * Plugin Name: Z Cool video banner
@@ -16,6 +17,7 @@ if(!defined('CVB_PATH')){
 if(!defined('CVB_URL')){
 	define('CVB_URL', plugin_dir_url(__FILE__) );
 }
+
  wp_enqueue_style('style_css', CVB_URL . 'css/style.css', false);
   wp_register_script('script_js', CVB_URL . 'js/script.js', false);
   wp_enqueue_script('style_css');
@@ -28,7 +30,7 @@ function generate_banner($banner_title, $banner_description, $image_url, $mp4_ur
     
 	if ($mp4_url !='') { $mp4gen='data-teaser="'.$mp4_url.'"';} else {$mp4gen='';}
    $banner_out = '  <div class="header-video">
-    <img src="img/'.$image_url.'"
+    <img src="'.$image_url.'"
          class="header-video__media"'.$ytgen.' '.$mp4gen.'"data-video-width="560"
          data-video-height="315">
     <h2>'.$banner_title.'</h2>

@@ -5,7 +5,8 @@
 .header-video {
   position: relative;
   overflow: hidden;
-}
+  width:auto !important;
+} 
 
 .header-video h2 {
 	  z-index: 5;

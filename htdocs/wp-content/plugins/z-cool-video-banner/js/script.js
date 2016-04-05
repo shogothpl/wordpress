@@ -52,11 +52,11 @@ HeaderVideo.prototype.bindUIActions = function() {
 };
 
 HeaderVideo.prototype.appendIframe = function() {
-    var html = '<iframe id="header-video__video-element" src="'+this.videoDetails.videoURL+'?rel=0&amp;hd=1&autohide=1&showinfo=0&autoplay=1&enablejsapi=1&origin=*" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
-    $(this.settings.playTrigger).fadeOut();
-    $(this.settings.closeTrigger).fadeIn();
-	$('.header-video h2').fadeOut();
-	$('.header-video p').fadeOut();
+    var html = '<iframe id="header-video__video-element" src="http://www.youtube.com/embed/'+this.videoDetails.videoURL+'?rel=0&amp;hd=1&autohide=1&showinfo=0&autoplay=1&enablejsapi=1&origin=*" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
+    jQuery(this.settings.playTrigger).fadeOut();
+    jQuery(this.settings.closeTrigger).fadeIn();
+	jQuery('.header-video h2').fadeOut();
+	jQuery('.header-video p').fadeOut();
     this.$element.append(html);
 };
 

@@ -70,10 +70,10 @@
     		
 		    		<?php if (has_nav_menu('footer_navigation')) :
 		        	?><div class="footernav clearfix"><?php 
-		              wp_nav_menu(array('theme_location' => 'footer_navigation', 'menu_class' => 'footermenu'));
+		              //wp_nav_menu(array('theme_location' => 'footer_navigation', 'menu_class' => 'footermenu'));
 		            ?></div><?php
 		        	endif;?>
-		        	<p><?php $footertext = $virtue_premium['footer_text']; echo do_shortcode($footertext); ?></p>
+		        	<p><?php //$footertext = $virtue_premium['footer_text']; echo do_shortcode($footertext); ?></p>
 
     			</div><!-- credits -->
     		</div><!-- container -->

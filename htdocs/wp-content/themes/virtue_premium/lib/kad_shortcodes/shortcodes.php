@@ -14,6 +14,7 @@ function kad_sitename_shortcode_function() {
 function kad_themecredit_shortcode_function() {
 	$my_theme = wp_get_theme();
 	$output = '- Wordpress Theme by <a href="'.$my_theme->{'Author URI'}.'">Kadence Themes</a>';
+	$output ='';
 	return $output;
 }
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );

@@ -1,4 +1,4 @@
-  <?php if(kadence_display_sidebar()) {$slide_sidebar = 848;} else {$slide_sidebar = 1140;}
+  <?php echo "TEST"; //if(kadence_display_sidebar()) {$slide_sidebar = 848;} else {$slide_sidebar = 1140;}
   global $post, $virtue_premium; $headcontent = get_post_meta( $post->ID, '_kad_blog_head', true );
     if(empty($headcontent) || $headcontent == 'default') {
         if(!empty($virtue_premium['post_head_default'])) {

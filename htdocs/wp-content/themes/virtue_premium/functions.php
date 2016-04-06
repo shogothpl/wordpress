@@ -87,7 +87,7 @@ add_filter('kadence_display_sidebar', 'kad_sidebar_on_special_page');
 
 function kad_sidebar_on_special_page($sidebar) {
 	global $post;
-	if ($post->post_type == "espresso_events") {
+	if ($post->post_type == "news") {
     return false;
   }
   return $sidebar;

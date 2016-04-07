@@ -184,7 +184,7 @@
             public $lang = "";
             public $dev_mode_forced = false;
             public $reload_fields = array();
-            public $omit_share_icons = false;
+            public $omit_share_icons = true;
             public $omit_admin_items = false;
 
             /**

@@ -23,6 +23,7 @@ if(!defined('CVB_URL')){
   wp_enqueue_script('script_js', array('jquery'), '', true );
 
 function generate_banner($banner_title, $banner_description, $image_url, $mp4_url, $yt_link)  {
+	if ($banner_title!='') {
 	if ($yt_link !='') { $ytgen='data-video-URL="'.$yt_link.'"'; $ytgenhtml='<a href="'.$yt_link.'" class="header-video__play-trigger" id="header-video__play-trigger">Play</a>
     <button type="button" class="header-video__close-trigger" id="header-video__close-trigger">Close</button>
 '; } else {$ytgen='';$ytgenhtml='';}
@@ -34,7 +35,7 @@ function generate_banner($banner_title, $banner_description, $image_url, $mp4_ur
          data-video-height="315">
     <h2>'.$banner_title.'</h2>
     <p>'.$banner_description.'</p>'.$ytgenhtml.'</div><div style="float: none; clear:none;"></div>';
-  echo $banner_out;
+  echo $banner_out; }
    // return true;
 }
 

@@ -2,3 +2,5 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 
 .page-template-page-aak-news-event .alm-reveal li:first-child {display:none;}
 .page-template-page-aak-news-event .alm-reveal .col-md-4:first-child {display:none;}
+#topbar {display:none;}
+.sliderclass { padding:0 !important;}

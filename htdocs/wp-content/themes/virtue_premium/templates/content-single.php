@@ -193,7 +193,7 @@ generate_banner($customtitle,$customdescription,$custombackground,$customp4file,
     
 
 
-    <?php echo do_shortcode( '[custom_post_display insert_post="ways_to_get_involved"]' ); echo do_shortcode( '[wd_contact_form id="3"]' );?>
+    <?php echo do_shortcode( '[custom_post_display insert_post="ways_to_get_involved"]' ); echo do_shortcode( '[mc4wp_form id="764"]' );?>
     <footer class="single-footer">
       <?php $tags = get_the_tags(); if ($tags) { ?> <span class="posttags"><i class="icon-tag"></i> <?php the_tags('', ', ', ''); ?> </span><?php } ?>
       

@@ -108,3 +108,14 @@ return $queried_post->post_content;
 
 }
 add_shortcode( 'custom_post_display', 'custom_post_dis_func' );
+
+function show_latest_news_func( $atts ) {
+	$cat_id=get_cat_ID( 'news' );
+$args = array( 'numberposts' => '1','category' => $cat_id );
+	$recent_posts = wp_get_recent_posts( $args );
+	foreach( $recent_posts as $recent ){
+		return get_the_post_thumbnail( $recent["ID"], 'large' ). '<li><a href="' . get_permalink($recent["ID"]) . '">' .   $recent["post_title"].'</a></li> ';
+	}
+
+}
+add_shortcode( 'show_latest_news', 'show_latest_news_func' );

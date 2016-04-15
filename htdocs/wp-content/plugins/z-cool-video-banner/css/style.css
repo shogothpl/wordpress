@@ -155,6 +155,8 @@ h2 {
   -moz-transition: background .3s;
   transition: background .3s;  
   border: none;
+  
+  display:none !important;
 }
 .header-video__close-trigger:hover {
   background: #363636;

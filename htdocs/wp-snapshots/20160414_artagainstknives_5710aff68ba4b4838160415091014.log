@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-04-15 09:10:39
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.6
+WORDPRESS:	4.5
+PHP INFO:	7.0.4 | SAPI: apache2handler
+SERVER:		Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/7.0.4 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 6MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:30 | filtered:0 | create:30 
+FILTERED: [] 
+SQL CREATED: 20160414_artagainstknives_5710aff68ba4b4838160415091014_database.sql 
+SQL FILE SIZE: 1.82MB (1906328) 
+SQL FILE TIME: 2016-04-15 09:10:39 
+SQL RUNTIME: 0.38 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/apps/wordpress/htdocs 
+ARCHIVE FILE: 20160414_artagainstknives_5710aff68ba4b4838160415091014_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	172.5MB 
+STATS:	Dirs 1,331 | Files 8,888 
+SQL ADDED: 20160414_artagainstknives_5710aff68ba4b4838160415091014_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10219
+    [filename] => C:\xampp\apps\wordpress\htdocs\wp-snapshots\tmp\20160414_artagainstknives_5710aff68ba4b4838160415091014_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 80.22MB 
+ARCHIVE RUNTIME: 92.21 sec. 
+MEMORY STACK: 10MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/apps/wordpress/htdocs/wp-snapshots/tmp/20160414_artagainstknives_5710aff68ba4b4838160415091014_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.82MB 
+Installer File: 319.29KB 
+Archive File: 80.22MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 98.32 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20160414_artagainstknives 2016-04-15 09:12:17
+ 

@@ -124,4 +124,25 @@ $args = array( 'numberposts' => '1','category' => $cat_id );
 	}
 
 }
-add_shortcode( 'show_latest_news', 'show_latest_news_func' );
+add_shortcode( 'show_latest_from_cat', 'show_latest_from_cat_func' );
+
+function show_latest_news_func( $atts ) {
+	$atsa = shortcode_atts( array(
+        'category' => 'default',
+    ), $atts );
+	
+	$cat_id=get_cat_ID( $atsa['category'] );
+$args = array( 'numberposts' => '1','category' => $cat_id );
+	$recent_posts = wp_get_recent_posts( $args );
+	foreach( $recent_posts as $recent ){
+		  $banner_out = '  <div class="header-video">'.get_the_post_thumbnail( $recent["ID"], 'orginal' ).'
+        
+    <h2>'.$recent["post_title"].'</h2>
+    <p>'.$recent["post_content"].'</p></div><div style="float: none; clear:none;"></div>';
+	
+	//	return get_the_post_thumbnail( $recent["ID"], 'large' ). '<li><a href="' . get_permalink($recent["ID"]) . '">' .   $recent["post_title"].'</a></li> ';
+	return $banner_out;
+	}
+
+}
+add_shortcode( 'show_latest_from_cat', 'show_latest_from_cat_func' );

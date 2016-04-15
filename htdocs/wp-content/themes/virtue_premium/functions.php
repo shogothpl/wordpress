@@ -124,10 +124,10 @@ $args = array( 'numberposts' => '1','category' => $cat_id );
 	}
 
 }
-add_shortcode( 'show_latest_from_cat', 'show_latest_from_cat_func' );
+add_shortcode( 'show_latest_news', 'show_latest_news_func' );
 
-function show_latest_news_func( $atts ) {
-	$atsa = shortcode_atts( array(
+function show_latest_news_form_cat_func( $atts ) {
+	 $atsa = shortcode_atts( array(
         'category' => 'default',
     ), $atts );
 	
@@ -145,4 +145,4 @@ $args = array( 'numberposts' => '1','category' => $cat_id );
 	}
 
 }
-add_shortcode( 'show_latest_from_cat', 'show_latest_from_cat_func' );
+add_shortcode( 'show_latest_news_from_cat', 'show_latest_news_form_cat_func' );

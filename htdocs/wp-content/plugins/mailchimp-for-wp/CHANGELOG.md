@@ -1,6 +1,41 @@
 Changelog
 =========
 
+#### 3.1.6 - April 12, 2016
+
+**Fixes**
+
+- Form event for starting a form was named `start` where it should have been `started`.
+
+**Improvements**
+
+- Some preparations for the upcoming migration to the new MailChimp API (version 3).
+- Consistent hook parameters for `mc4wp_form_subscribed` action.
+- Improved logic for rendering form response.
+
+**Additions**
+
+- New checkbox position for WooCommerce checkout integration.
+
+
+#### 3.1.5 - March 22, 2016
+
+**Fixes**
+
+- Response message was shown for unsubmitted forms when using `{response}` in the form mark-up with multiple forms on the same page.
+
+**Improvements**
+
+- Scroll to form after form submission now uses native browser method `scrollIntoView()`.
+- Various improvements for right-to-left (RTL) sites.
+- The MailChimp API key is now obfuscated on the settings page.
+- Contact Form 7 integration now uses an early hook priority to ensure we run before any page redirects.
+
+**Additions**
+
+- Add position option for WooCommerce integration.
+- Add `{post}` tag whch can be used in form mark-up to fetch properties of the current page or post.
+
 #### 3.1.4 - February 29, 2016
 
 **Fixes**

@@ -29,6 +29,11 @@ class MC4WP_Admin {
 	protected $ads;
 
 	/**
+	 * @var MC4WP_Update_Optin
+	 */
+	protected $update_optin;
+
+	/**
 	 * Constructor
 	 *
 	 * @param MC4WP_Admin_Messages $messages
@@ -40,6 +45,9 @@ class MC4WP_Admin {
 		$this->plugin_file = plugin_basename( MC4WP_PLUGIN_FILE );
 		$this->ads = new MC4WP_Admin_Ads();
 		$this->load_translations();
+
+		// update opt-in
+		$this->update_optin = new MC4WP_Update_Optin( '4.0.0', $this->plugin_file, MC4WP_PLUGIN_DIR . 'includes/views/parts/update-4.x-notice.php' );
 	}
 
 	/**
@@ -58,6 +66,7 @@ class MC4WP_Admin {
 
 		$this->ads->add_hooks();
 		$this->messages->add_hooks();
+		$this->update_optin->add_hooks();
 	}
 
 	/**
@@ -204,6 +213,11 @@ class MC4WP_Admin {
 			MC4WP_Usage_Tracking::instance()->toggle( $settings['allow_usage_tracking'] );
 		}
 
+		// Make sure not to use obfuscated key
+		if( strpos( $settings['api_key'], '*' ) !== false ) {
+			$settings['api_key'] = $current['api_key'];
+		}
+
 		// Sanitize API key
 		$settings['api_key'] = sanitize_text_field( $settings['api_key'] );
 
@@ -211,6 +225,7 @@ class MC4WP_Admin {
 		if ( $settings['api_key'] !== $current['api_key'] ) {
 			$this->mailchimp->empty_cache();
 		}
+
 
 		/**
 		 * Runs right before general settings are saved.
@@ -403,6 +418,7 @@ class MC4WP_Admin {
 		$opts = mc4wp_get_options();
 		$connected = ( mc4wp('api')->is_connected() );
 		$lists = $this->mailchimp->get_lists();
+		$obfuscated_api_key = mc4wp_obfuscate_string( $opts['api_key'] );
 		require MC4WP_PLUGIN_DIR . 'includes/views/general-settings.php';
 	}
 

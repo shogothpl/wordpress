@@ -2,12 +2,12 @@
 
 Plugin Name: No Comments
 Contributors: stevenfernandez
-Donate link: http://www.stevenfernandez.me
+Donate link: https://www.playpal.com/cgi-bin/webscr?cmd=_donations&business=fernandez.steven@gmail.com
 Tags: no comments, hide comments, disable comments
 Author: Steven Fernandez
 Requires at least: 3.5
-Tested up to: 4.4
-Stable tag: 1.1.0
+Tested up to: 4.5
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,3 +55,9 @@ No Comments plugin totally get's rid of comments. Just activate the plugin and i
 
 = 1.1.0 =
 * Compatible with wordpress 4.4
+
+= 1.1.1 =
+* Compatible with wordpress 4.5
+
+= 1.1.2 =
+* Bug Fix and donations link added

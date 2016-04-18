@@ -2,11 +2,12 @@
 
     /*
     Plugin Name: No Comments
-    Plugin URI: http://www.stevenfernandez.co.uk/
+    Plugin URI: http://www.stevenfernandez.me/
     Description: `No Comments` plugin totally gets rid of comments. Just activate the plugin and it's all gone!
     Author: Steven Fernandez
-    Version: 1.1.0
-    Author URI: http://www.stevenfernandez.co.uk/
+    Donate link: https://www.playpal.com/cgi-bin/webscr?cmd=_donations&business=fernandez.steven@gmail.com
+    Version: 1.1.2
+    Author URI: http://www.stevenfernandez.me/
 
     === RELEASE NOTES ===
     20-04-2014 - v1.0 - first version
@@ -28,6 +29,10 @@
     07-09-2015 - v1.0.9 - Compatible with wordpress 4.3
 
 	15-02-2016 - v1.1.0 - Compatible with wordpress 4.4
+
+	12-04-2016 - v1.1.1 - Compatible with wordpress 4.5
+
+	16-04-2016 - v1.1.2 - Bug Fix and donations link added
 
 
     */

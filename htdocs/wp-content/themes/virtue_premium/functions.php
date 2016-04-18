@@ -7,7 +7,7 @@ load_theme_textdomain('virtue', get_template_directory() . '/languages');
  * Init Theme Options
  */
 require_once locate_template('/themeoptions/framework.php');          		// Options framework
-require_once locate_template('/themeoptions/options.php');          		// Options framework
+//require_once locate_template('/themeoptions/options.php');          		// Options framework
 require_once locate_template('/themeoptions/options/virtue_extension.php'); // Options framework extension
 require_once locate_template('/kt_framework/extensions.php');        		// Remove options from the admin
 

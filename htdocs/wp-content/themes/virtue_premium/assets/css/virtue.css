@@ -21,3 +21,5 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 /*fixing margins in header*/
 .page-header { margin:0 !important; padding:0 !important;}
+/* video header margin */
+.header-video { margin-bottom:10px;}

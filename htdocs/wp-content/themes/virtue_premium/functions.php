@@ -149,6 +149,6 @@ add_shortcode( 'show_latest_news_from_cat', 'show_latest_news_form_cat_func' );
 
 /* removing unwanted admin links */
 function custom_menu_page_removing() {
-    remove_menu_page( 'themes.php' ); remove_menu_page( 'edit.php?post_type=staff' ); remove_menu_page( 'edit.php?post_type=testimonial' );
+    remove_menu_page( 'themes.php' ); remove_menu_page( 'edit.php?post_type=staff' ); remove_menu_page( 'edit.php?post_type=testimonial' ); remove_menu_page( 'edit.php?post_type=portfolio' );
 }
 add_action( 'admin_menu', 'custom_menu_page_removing' );

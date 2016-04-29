@@ -74,7 +74,13 @@
 		            ?></div><?php
 		        	endif;?>
 		        	<p><?php //$footertext = $virtue_premium['footer_text']; echo do_shortcode($footertext); ?></p>
+<?php 
+$page = get_page_by_title( 'AAK-footer', OBJECT, 'post'); 
+$post_id = $page->ID;
+$queried_post = get_post($post_id);
 
+echo $queried_post->post_content;
+?>
     			</div><!-- credits -->
     		</div><!-- container -->
     </div><!-- footerbase -->
